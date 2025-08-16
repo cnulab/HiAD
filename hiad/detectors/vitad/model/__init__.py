@@ -1,0 +1,1 @@
+from .vitad import  get_model
