@@ -1,0 +1,2 @@
+backbone_name: vit_base_patch16_224_dino
+config_path: hiad/detectors/vitad/config.py

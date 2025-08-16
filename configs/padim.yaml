@@ -1,0 +1,3 @@
+backbone_name: wideresnet50
+layers_to_extract_from: ['layer2','layer3']
+embed_dimension: 550

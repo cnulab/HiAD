@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hiad"
+version = "0.1.2"
+description = "high-resolution anomaly detection"
+authors = [
+    { name = "cnulab", email = "2024010482@bupt.cn" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+urls = { Homepage = "https://github.com/cnulab/HiAD" }
+
+dependencies = [
+    "torch>=1.10",
+    "torchvision",
+    "torchmetrics",
+    "numpy",
+    "PyYAML",
+    "easydict",
+    "opencv-python",
+    "Pillow",
+    "scikit-learn",
+    "scikit-image",
+    "imgaug",
+    "tabulate",
+    "kornia",
+    "matplotlib",
+    "timm==0.8.15.dev0",
+    "FrEIA",
+    "geomloss",
+    "pandas",
+    "grad_cam",
+]
+
+[project.optional-dependencies]
+cuda = ["faiss-gpu"]
+cuda11 = ["faiss-gpu-cu11"]
+cuda12 = ["faiss-gpu-cu12"]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+

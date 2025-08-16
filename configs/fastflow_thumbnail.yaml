@@ -1,0 +1,11 @@
+backbone_name: wide_resnet50_2
+layers_to_extract_from: ['layer2','layer3']
+# backbone_name: deit_base_distilled_patch16_384
+flow_step: 8
+hidden_ratio: 1.0
+conv3x3_only: False
+num_epochs: 500
+lr: 1e-3
+weight_decay: 1e-5
+eval_per_steps: 100
+log_per_steps: 10

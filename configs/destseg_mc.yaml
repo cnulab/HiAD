@@ -1,0 +1,10 @@
+lr_de_st: 0.4
+lr_res: 0.1
+lr_seghead: 0.01
+steps: 5000
+de_st_steps: 2500
+eval_per_steps: 100
+log_per_steps: 10
+gamma: 4
+DTD: data/DTD
+dest: true

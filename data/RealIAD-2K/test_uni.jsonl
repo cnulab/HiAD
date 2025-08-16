@@ -1,0 +1,983 @@
+{"filename": "bottle_cap/test/AK/bottle_cap_0003_NG_AK_C1_20230926102725.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0003_NG_AK_C1_20230926102725.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0016_NG_AK_C1_20230926104923.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0016_NG_AK_C1_20230926104923.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0022_NG_AK_C1_20230926105104.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0022_NG_AK_C1_20230926105104.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0026_NG_AK_C1_20230926105249.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0026_NG_AK_C1_20230926105249.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0034_NG_AK_C1_20230926105452.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0034_NG_AK_C1_20230926105452.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0039_NG_AK_C1_20230926105606.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0039_NG_AK_C1_20230926105606.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0040_NG_AK_C1_20230926105635.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0040_NG_AK_C1_20230926105635.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0046_NG_AK_C1_20230926105746.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0046_NG_AK_C1_20230926105746.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0050_NG_AK_C1_20230926105843.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0050_NG_AK_C1_20230926105843.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0057_NG_AK_C1_20230926110035.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0057_NG_AK_C1_20230926110035.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0058_NG_AK_C1_20230926110046.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0058_NG_AK_C1_20230926110046.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0060_NG_AK_C1_20230926110117.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0060_NG_AK_C1_20230926110117.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0063_NG_AK_C1_20230926110202.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0063_NG_AK_C1_20230926110202.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0064_NG_AK_C1_20230926110214.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0064_NG_AK_C1_20230926110214.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0067_NG_AK_C1_20230926110257.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0067_NG_AK_C1_20230926110257.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0071_NG_AK_C1_20230926110348.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0071_NG_AK_C1_20230926110348.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0076_NG_AK_C1_20230926110455.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0076_NG_AK_C1_20230926110455.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0080_NG_AK_C1_20230926110550.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0080_NG_AK_C1_20230926110550.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0082_NG_AK_C1_20230926110615.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0082_NG_AK_C1_20230926110615.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0084_NG_AK_C1_20230926110638.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0084_NG_AK_C1_20230926110638.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0088_NG_AK_C1_20230926110728.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0088_NG_AK_C1_20230926110728.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0092_NG_AK_C1_20230926110841.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0092_NG_AK_C1_20230926110841.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0094_NG_AK_C1_20230926110905.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0094_NG_AK_C1_20230926110905.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0106_NG_AK_C1_20230926111236.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0106_NG_AK_C1_20230926111236.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0108_NG_AK_C1_20230926111306.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0108_NG_AK_C1_20230926111306.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0110_NG_AK_C1_20230926111419.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0110_NG_AK_C1_20230926111419.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0111_NG_AK_C1_20230926111432.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0111_NG_AK_C1_20230926111432.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0115_NG_AK_C1_20230926111528.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0115_NG_AK_C1_20230926111528.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0116_NG_AK_C1_20230926111539.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0116_NG_AK_C1_20230926111539.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0120_NG_AK_C1_20230926111637.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0120_NG_AK_C1_20230926111637.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0122_NG_AK_C1_20230926111700.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0122_NG_AK_C1_20230926111700.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0123_NG_AK_C1_20230926111716.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0123_NG_AK_C1_20230926111716.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0124_NG_AK_C1_20230926111732.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0124_NG_AK_C1_20230926111732.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0125_NG_AK_C1_20230926111741.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0125_NG_AK_C1_20230926111741.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0006_NG_AK_C1_20230926103343.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0014_NG_AK_C1_20230926104854.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0015_NG_AK_C1_20230926104907.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0028_NG_AK_C1_20230926105322.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0031_NG_AK_C1_20230926105409.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0036_NG_AK_C1_20230926105516.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0051_NG_AK_C1_20230926105904.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0052_NG_AK_C1_20230926105922.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0072_NG_AK_C1_20230926110404.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_NG_AK_C1_20230926110445.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0078_NG_AK_C1_20230926110526.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0095_NG_AK_C1_20230926110955.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0099_NG_AK_C1_20230926111100.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0003_NG_QS_C1_20230926090524.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0004_NG_QS_C1_20230926090545.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0006_NG_QS_C1_20230926090613.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0007_NG_QS_C1_20230926090629.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0008_NG_QS_C1_20230926090641.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0014_NG_QS_C1_20230926090806.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0016_NG_QS_C1_20230926090837.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0017_NG_QS_C1_20230926090850.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0020_NG_QS_C1_20230926090935.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0026_NG_QS_C1_20230926091510.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0027_NG_QS_C1_20230926091526.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0029_NG_QS_C1_20230926091552.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0032_NG_QS_C1_20230926091635.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0033_NG_QS_C1_20230926091648.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0036_NG_QS_C1_20230926091731.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0038_NG_QS_C1_20230926091800.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0042_NG_QS_C1_20230926091906.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0045_NG_QS_C1_20230926091946.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0051_NG_QS_C1_20230926092118.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0054_NG_QS_C1_20230926092157.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0056_NG_QS_C1_20230926092234.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0057_NG_QS_C1_20230926092246.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0061_NG_QS_C1_20230926092341.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0062_NG_QS_C1_20230926092353.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0068_NG_QS_C1_20230926092521.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0069_NG_QS_C1_20230926092539.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0073_NG_QS_C1_20230926092643.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_NG_QS_C1_20230926092712.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0077_NG_QS_C1_20230926092821.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0079_NG_QS_C1_20230926092850.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0080_NG_QS_C1_20230926092904.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0081_NG_QS_C1_20230926092917.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0085_NG_QS_C1_20230926093014.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0089_NG_QS_C1_20230926093114.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0091_NG_QS_C1_20230926093144.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0095_NG_QS_C1_20230926093250.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0099_NG_QS_C1_20230926093345.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0101_NG_QS_C1_20230926093440.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0104_NG_QS_C1_20230926093555.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0105_NG_QS_C1_20230926093606.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0109_NG_QS_C1_20230926093712.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0114_NG_QS_C1_20230926093825.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0116_NG_QS_C1_20230926093848.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0120_NG_QS_C1_20230926093953.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0121_NG_QS_C1_20230926094005.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0123_NG_QS_C1_20230926094037.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0124_NG_QS_C1_20230926094052.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0125_NG_QS_C1_20230926094112.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0126_NG_QS_C1_20230926094123.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0001_NG_ZW_C1_20230926112305.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0008_NG_ZW_C1_20230926112613.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0009_NG_ZW_C1_20230926112635.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0017_NG_ZW_C1_20230926112839.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0028_NG_ZW_C1_20230926113219.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0044_NG_ZW_C1_20230926113646.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0048_NG_ZW_C1_20230926113753.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0053_NG_ZW_C1_20230926113909.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0069_NG_ZW_C1_20230926130614.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_NG_ZW_C1_20230926130726.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0076_NG_ZW_C1_20230926130736.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0077_NG_ZW_C1_20230926130746.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0088_NG_ZW_C1_20230926131012.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0098_NG_ZW_C1_20230926131214.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0101_NG_ZW_C1_20230926131245.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0102_NG_ZW_C1_20230926131305.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0105_NG_ZW_C1_20230926131338.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0112_NG_ZW_C1_20230926131513.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0113_NG_ZW_C1_20230926131523.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0114_NG_ZW_C1_20230926131533.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0126_NG_ZW_C1_20230926131853.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0001_OK_C1_20230925164816.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0009_OK_C1_20230925165157.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0010_OK_C1_20230925165212.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0011_OK_C1_20230925165226.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0014_OK_C1_20230925165308.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0015_OK_C1_20230925165320.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0017_OK_C1_20230925165348.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0018_OK_C1_20230925165403.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0019_OK_C1_20230925165420.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0020_OK_C1_20230925165433.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0025_OK_C1_20230925165553.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0028_OK_C1_20230925165633.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0034_OK_C1_20230925165754.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0036_OK_C1_20230925165818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0037_OK_C1_20230925165832.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0038_OK_C1_20230925165852.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0046_OK_C1_20230925170046.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0050_OK_C1_20230925170146.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0051_OK_C1_20230925170203.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0056_OK_C1_20230925170319.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0057_OK_C1_20230925170335.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0062_OK_C1_20230925170444.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0063_OK_C1_20230925170457.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0066_OK_C1_20230925170545.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0067_OK_C1_20230925170600.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0071_OK_C1_20230925170655.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0073_OK_C1_20230925170723.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0074_OK_C1_20230925170735.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_OK_C1_20230925170748.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0076_OK_C1_20230925170801.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0083_OK_C1_20230925170935.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0084_OK_C1_20230925170951.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0087_OK_C1_20230925171027.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0088_OK_C1_20230925171052.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0090_OK_C1_20230925171120.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0094_OK_C1_20230925171232.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0095_OK_C1_20230925171246.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0101_OK_C1_20230925171410.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0103_OK_C1_20230925171439.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0104_OK_C1_20230925171453.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0105_OK_C1_20230925171508.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0106_OK_C1_20230925171522.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0107_OK_C1_20230925171535.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0108_OK_C1_20230925171548.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0109_OK_C1_20230925171602.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0114_OK_C1_20230925171715.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0115_OK_C1_20230925171731.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0116_OK_C1_20230925171744.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0117_OK_C1_20230925171758.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0118_OK_C1_20230925171812.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0119_OK_C1_20230925171824.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0120_OK_C1_20230925171836.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0124_OK_C1_20230925171933.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0125_OK_C1_20230925171948.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0127_OK_C1_20230925172017.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0129_OK_C1_20230925172050.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0132_OK_C1_20230925172133.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0135_OK_C1_20230925172214.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0136_OK_C1_20230925172227.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0138_OK_C1_20230925172303.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0143_OK_C1_20230925172411.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0146_OK_C1_20230925172449.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0148_OK_C1_20230925172516.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0149_OK_C1_20230925172529.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0150_OK_C1_20230925172545.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0151_OK_C1_20230925172601.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0155_OK_C1_20230925172650.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0158_OK_C1_20230925172729.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0159_OK_C1_20230925172745.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0161_OK_C1_20230925172818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0165_OK_C1_20230925172911.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0167_OK_C1_20230925172938.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0171_OK_C1_20230925173047.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0172_OK_C1_20230925173100.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0173_OK_C1_20230925173117.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0174_OK_C1_20230925173130.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0176_OK_C1_20230925173205.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0177_OK_C1_20230925173219.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0180_OK_C1_20230925173307.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0185_OK_C1_20230925173429.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0186_OK_C1_20230925173442.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0191_OK_C1_20230925173600.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0193_OK_C1_20230925173629.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0195_OK_C1_20230925173703.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0198_OK_C1_20230925173752.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0199_OK_C1_20230925173807.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0200_OK_C1_20230925173822.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0201_OK_C1_20230925173837.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0202_OK_C1_20230925173914.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0205_OK_C1_20230925174001.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0206_OK_C1_20230925174012.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0210_OK_C1_20230925174059.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0215_OK_C1_20230925174221.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0217_OK_C1_20230925174246.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0219_OK_C1_20230925174314.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0220_OK_C1_20230925174328.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0222_OK_C1_20230925174412.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0224_OK_C1_20230925174435.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0227_OK_C1_20230925174515.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0228_OK_C1_20230925174527.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0231_OK_C1_20230925174606.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0234_OK_C1_20230925174640.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0238_OK_C1_20230925174750.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0239_OK_C1_20230925174805.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0246_OK_C1_20230925175001.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0248_OK_C1_20230925175030.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0249_OK_C1_20230925175045.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0251_OK_C1_20230925175111.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0252_OK_C1_20230925183518.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0253_OK_C1_20230925183701.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0256_OK_C1_20230925183744.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0258_OK_C1_20230925183818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0265_OK_C1_20230925184006.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0266_OK_C1_20230925184023.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0269_OK_C1_20230925184112.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0274_OK_C1_20230925184248.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0275_OK_C1_20230925184300.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0277_OK_C1_20230925184331.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0281_OK_C1_20230925184443.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0283_OK_C1_20230925184503.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0285_OK_C1_20230925184521.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0287_OK_C1_20230925184538.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0294_OK_C1_20230925184648.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0296_OK_C1_20230925184711.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0297_OK_C1_20230925184719.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0299_OK_C1_20230925184739.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0302_OK_C1_20230925184808.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0304_OK_C1_20230925184826.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0306_OK_C1_20230925184847.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0309_OK_C1_20230925184910.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0312_OK_C1_20230925184934.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0314_OK_C1_20230925184950.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0315_OK_C1_20230925185002.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0316_OK_C1_20230925185012.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0317_OK_C1_20230925185018.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0323_OK_C1_20230925185109.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0324_OK_C1_20230925185116.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0328_OK_C1_20230925185159.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0333_OK_C1_20230925185356.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0334_OK_C1_20230925185419.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0336_OK_C1_20230925185447.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0341_OK_C1_20230925185613.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0342_OK_C1_20230925185622.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0343_OK_C1_20230925185637.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0345_OK_C1_20230925185704.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0346_OK_C1_20230925185715.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0353_OK_C1_20230925185819.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0354_OK_C1_20230925185829.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0355_OK_C1_20230925185837.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0356_OK_C1_20230925185846.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0357_OK_C1_20230925185906.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0359_OK_C1_20230925185934.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0360_OK_C1_20230925190011.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0362_OK_C1_20230925190031.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0367_OK_C1_20230925190141.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0368_OK_C1_20230925190155.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0371_OK_C1_20230925190231.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0373_OK_C1_20230925190252.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0374_OK_C1_20230925190307.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0375_OK_C1_20230925190318.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0376_OK_C1_20230925190329.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0378_OK_C1_20230925190351.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0379_OK_C1_20230925190407.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0380_OK_C1_20230925190417.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0381_OK_C1_20230925190438.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0383_OK_C1_20230925190458.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0385_OK_C1_20230925190521.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0387_OK_C1_20230925190551.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0391_OK_C1_20230925190643.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0392_OK_C1_20230925190653.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0394_OK_C1_20230925190740.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0396_OK_C1_20230925190801.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0397_OK_C1_20230925190812.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0399_OK_C1_20230925190835.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0402_OK_C1_20230925190911.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0405_OK_C1_20230925191006.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0407_OK_C1_20230925191029.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0408_OK_C1_20230925191042.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0409_OK_C1_20230925191052.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0414_OK_C1_20230925191152.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0415_OK_C1_20230925191204.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0418_OK_C1_20230925191236.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0422_OK_C1_20230925191313.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0424_OK_C1_20230925191331.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0430_OK_C1_20230925191422.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0432_OK_C1_20230925191442.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0435_OK_C1_20230925191516.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0438_OK_C1_20230925191541.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0442_OK_C1_20230925191616.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0446_OK_C1_20230925191651.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0447_OK_C1_20230925191659.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0448_OK_C1_20230925191708.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0452_OK_C1_20230925191748.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0455_OK_C1_20230925191818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0456_OK_C1_20230925191828.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0457_OK_C1_20230925191838.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0458_OK_C1_20230925191850.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0460_OK_C1_20230925191908.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0466_OK_C1_20230925192011.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0467_OK_C1_20230925192020.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0468_OK_C1_20230925192030.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0470_OK_C1_20230925192048.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0472_OK_C1_20230925192115.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0474_OK_C1_20230925192133.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0475_OK_C1_20230925192140.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0477_OK_C1_20230925192200.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0481_OK_C1_20230925192253.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0483_OK_C1_20230925192325.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0484_OK_C1_20230925192338.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0486_OK_C1_20230925192411.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0489_OK_C1_20230925192459.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0493_OK_C1_20230925192551.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0495_OK_C1_20230925192608.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0497_OK_C1_20230925192631.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0498_OK_C1_20230925192643.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0500_OK_C1_20230925192702.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/QS/bottle_cap_0112_NG_QS_C1_20230926093756.jpg", "mask": "bottle_cap/ground_truth/QS/bottle_cap_0112_NG_QS_C1_20230926093756.png", "clsname": "bottle_cap", "label": 1, "label_name": "QS"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0002_NG_ZW_C1_20230926112430.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0002_NG_ZW_C1_20230926112430.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0007_NG_ZW_C1_20230926112559.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0007_NG_ZW_C1_20230926112559.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0011_NG_ZW_C1_20230926112704.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0011_NG_ZW_C1_20230926112704.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0020_NG_ZW_C1_20230926112935.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0020_NG_ZW_C1_20230926112935.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0025_NG_ZW_C1_20230926113103.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0025_NG_ZW_C1_20230926113103.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0026_NG_ZW_C1_20230926113117.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0026_NG_ZW_C1_20230926113117.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0036_NG_ZW_C1_20230926113437.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0036_NG_ZW_C1_20230926113437.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0042_NG_ZW_C1_20230926113611.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0042_NG_ZW_C1_20230926113611.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0043_NG_ZW_C1_20230926113629.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0043_NG_ZW_C1_20230926113629.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0047_NG_ZW_C1_20230926113737.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0047_NG_ZW_C1_20230926113737.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0049_NG_ZW_C1_20230926113808.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0049_NG_ZW_C1_20230926113808.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0052_NG_ZW_C1_20230926113849.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0052_NG_ZW_C1_20230926113849.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0054_NG_ZW_C1_20230926113922.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0054_NG_ZW_C1_20230926113922.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0055_NG_ZW_C1_20230926113934.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0055_NG_ZW_C1_20230926113934.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0056_NG_ZW_C1_20230926113949.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0056_NG_ZW_C1_20230926113949.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0057_NG_ZW_C1_20230926130306.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0057_NG_ZW_C1_20230926130306.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0060_NG_ZW_C1_20230926130414.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0060_NG_ZW_C1_20230926130414.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0063_NG_ZW_C1_20230926130452.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0063_NG_ZW_C1_20230926130452.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0064_NG_ZW_C1_20230926130507.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0064_NG_ZW_C1_20230926130507.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0066_NG_ZW_C1_20230926130538.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0066_NG_ZW_C1_20230926130538.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0067_NG_ZW_C1_20230926130545.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0067_NG_ZW_C1_20230926130545.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0070_NG_ZW_C1_20230926130629.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0070_NG_ZW_C1_20230926130629.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0071_NG_ZW_C1_20230926130639.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0071_NG_ZW_C1_20230926130639.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0073_NG_ZW_C1_20230926130702.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0073_NG_ZW_C1_20230926130702.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0078_NG_ZW_C1_20230926130801.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0078_NG_ZW_C1_20230926130801.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0079_NG_ZW_C1_20230926130811.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0079_NG_ZW_C1_20230926130811.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0081_NG_ZW_C1_20230926130841.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0081_NG_ZW_C1_20230926130841.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0082_NG_ZW_C1_20230926130851.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0082_NG_ZW_C1_20230926130851.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0084_NG_ZW_C1_20230926130914.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0084_NG_ZW_C1_20230926130914.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0085_NG_ZW_C1_20230926130933.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0085_NG_ZW_C1_20230926130933.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0087_NG_ZW_C1_20230926130954.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0087_NG_ZW_C1_20230926130954.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0090_NG_ZW_C1_20230926131037.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0090_NG_ZW_C1_20230926131037.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0093_NG_ZW_C1_20230926131117.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0093_NG_ZW_C1_20230926131117.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0095_NG_ZW_C1_20230926131137.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0095_NG_ZW_C1_20230926131137.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0099_NG_ZW_C1_20230926131223.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0099_NG_ZW_C1_20230926131223.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0106_NG_ZW_C1_20230926131348.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0106_NG_ZW_C1_20230926131348.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0108_NG_ZW_C1_20230926131420.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0108_NG_ZW_C1_20230926131420.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0115_NG_ZW_C1_20230926131605.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0115_NG_ZW_C1_20230926131605.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0116_NG_ZW_C1_20230926131624.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0116_NG_ZW_C1_20230926131624.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0119_NG_ZW_C1_20230926131654.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0119_NG_ZW_C1_20230926131654.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0123_NG_ZW_C1_20230926131742.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0123_NG_ZW_C1_20230926131742.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1030_NG_ZW_C1_20230925165701.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1030_NG_ZW_C1_20230925165701.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1032_NG_ZW_C1_20230925165727.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1032_NG_ZW_C1_20230925165727.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1121_NG_ZW_C1_20230925171851.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1121_NG_ZW_C1_20230925171851.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1288_NG_ZW_C1_20230925184549.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1288_NG_ZW_C1_20230925184549.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1434_NG_ZW_C1_20230925191505.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1434_NG_ZW_C1_20230925191505.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0081_NG_AK_C1_20230925102916.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0017_NG_CH_C1_20230925105121.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0021_NG_CH_C1_20230925105205.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0023_NG_CH_C1_20230925105218.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0042_NG_CH_C1_20230925105459.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0044_NG_CH_C1_20230925105552.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0045_NG_CH_C1_20230925105611.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0050_NG_CH_C1_20230925105656.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0052_NG_CH_C1_20230925105714.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0060_NG_CH_C1_20230925105820.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0063_NG_CH_C1_20230925105916.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0076_NG_CH_C1_20230925110117.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0077_NG_CH_C1_20230925110130.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0082_NG_CH_C1_20230925110235.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0090_NG_CH_C1_20230925110351.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0104_NG_CH_C1_20230925110621.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0120_NG_CH_C1_20230925110917.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0121_NG_CH_C1_20230925110929.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0001_NG_HS_C1_20230925111817.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0004_NG_HS_C1_20230925111933.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0022_NG_HS_C1_20230925114200.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0061_NG_HS_C1_20230925113024.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0067_NG_HS_C1_20230925113134.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0082_NG_HS_C1_20230925113417.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0089_NG_HS_C1_20230925113545.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0107_NG_HS_C1_20230925113851.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0118_NG_ZW_C1_20230925095749.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0130_NG_ZW_C1_20230925100014.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_1156_NG_ZW_C1_20230923192029.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_1409_NG_ZW_C1_20230923201037.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_1436_NG_ZW_C1_20230923201504.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0010_OK_C1_20230923183959.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0025_OK_C1_20230923184649.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0046_OK_C1_20230923185133.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0051_OK_C1_20230923185304.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0053_OK_C1_20230923185335.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0066_OK_C1_20230923185643.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0086_OK_C1_20230923190221.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0103_OK_C1_20230923190936.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0112_OK_C1_20230923191120.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0116_OK_C1_20230923191157.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0118_OK_C1_20230923191216.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0119_OK_C1_20230923191227.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0129_OK_C1_20230923191420.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0151_OK_C1_20230923191918.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0163_OK_C1_20230923192150.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0185_OK_C1_20230923192638.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0198_OK_C1_20230923192923.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0202_OK_C1_20230923193016.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0206_OK_C1_20230923193057.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0216_OK_C1_20230923193243.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0270_OK_C1_20230923194354.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0271_OK_C1_20230923194404.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0273_OK_C1_20230923194424.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0277_OK_C1_20230923202609.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0285_OK_C1_20230923194721.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0286_OK_C1_20230923194730.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0299_OK_C1_20230923194950.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0304_OK_C1_20230923195034.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0309_OK_C1_20230923195147.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0312_OK_C1_20230923195231.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0323_OK_C1_20230923195408.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0337_OK_C1_20230923195703.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0341_OK_C1_20230923195750.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0346_OK_C1_20230923195839.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0353_OK_C1_20230923200003.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0358_OK_C1_20230923200056.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0365_OK_C1_20230923200153.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0376_OK_C1_20230923200433.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0392_OK_C1_20230923200735.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0393_OK_C1_20230923200746.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0418_OK_C1_20230923201217.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0425_OK_C1_20230923201322.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0431_OK_C1_20230923201413.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0432_OK_C1_20230923201424.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0443_OK_C1_20230923201615.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0452_OK_C1_20230923201733.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0464_OK_C1_20230923201931.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0470_OK_C1_20230923202024.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/OK/usb_adaptor_0475_OK_C1_20230923202114.jpg", "clsname": "usb_adaptor", "label": 0, "label_name": "OK"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0002_NG_HS_C1_20230925111836.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0002_NG_HS_C1_20230925111836.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0006_NG_HS_C1_20230925111953.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0006_NG_HS_C1_20230925111953.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0007_NG_HS_C1_20230925112003.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0007_NG_HS_C1_20230925112003.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0008_NG_HS_C1_20230925112012.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0008_NG_HS_C1_20230925112012.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0010_NG_HS_C1_20230925112031.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0010_NG_HS_C1_20230925112031.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0012_NG_HS_C1_20230925114033.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0012_NG_HS_C1_20230925114033.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0013_NG_HS_C1_20230925114041.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0013_NG_HS_C1_20230925114041.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0016_NG_HS_C1_20230925114107.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0016_NG_HS_C1_20230925114107.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0017_NG_HS_C1_20230925114115.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0017_NG_HS_C1_20230925114115.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0018_NG_HS_C1_20230925114123.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0018_NG_HS_C1_20230925114123.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0029_NG_HS_C1_20230925112357.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0029_NG_HS_C1_20230925112357.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0041_NG_HS_C1_20230925112611.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0041_NG_HS_C1_20230925112611.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0044_NG_HS_C1_20230925112653.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0044_NG_HS_C1_20230925112653.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0045_NG_HS_C1_20230925112713.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0045_NG_HS_C1_20230925112713.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0055_NG_HS_C1_20230925112930.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0055_NG_HS_C1_20230925112930.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0064_NG_HS_C1_20230925113058.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0064_NG_HS_C1_20230925113058.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0068_NG_HS_C1_20230925113142.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0068_NG_HS_C1_20230925113142.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0070_NG_HS_C1_20230925113205.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0070_NG_HS_C1_20230925113205.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0074_NG_HS_C1_20230925113248.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0074_NG_HS_C1_20230925113248.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0075_NG_HS_C1_20230925113256.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0075_NG_HS_C1_20230925113256.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0080_NG_HS_C1_20230925113401.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0080_NG_HS_C1_20230925113401.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0081_NG_HS_C1_20230925113410.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0081_NG_HS_C1_20230925113410.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0083_NG_HS_C1_20230925113428.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0083_NG_HS_C1_20230925113428.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0090_NG_HS_C1_20230925113554.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0090_NG_HS_C1_20230925113554.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0091_NG_HS_C1_20230925113603.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0091_NG_HS_C1_20230925113603.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0100_NG_HS_C1_20230925113738.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0100_NG_HS_C1_20230925113738.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0104_NG_HS_C1_20230925113824.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0104_NG_HS_C1_20230925113824.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0106_NG_HS_C1_20230925113843.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0106_NG_HS_C1_20230925113843.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0108_NG_HS_C1_20230925113901.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0108_NG_HS_C1_20230925113901.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0111_NG_HS_C1_20230925113931.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0111_NG_HS_C1_20230925113931.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0118_NG_HS_C1_20230925112131.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0118_NG_HS_C1_20230925112131.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0122_NG_HS_C1_20230925112210.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0122_NG_HS_C1_20230925112210.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/HS/usb_adaptor_0132_NG_HS_C1_20230925131833.jpg", "mask": "usb_adaptor/ground_truth/HS/usb_adaptor_0132_NG_HS_C1_20230925131833.png", "clsname": "usb_adaptor", "label": 1, "label_name": "HS"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0001_NG_ZW_C1_20230925093557.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0001_NG_ZW_C1_20230925093557.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0003_NG_ZW_C1_20230925093617.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0003_NG_ZW_C1_20230925093617.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0004_NG_ZW_C1_20230925093629.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0004_NG_ZW_C1_20230925093629.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0006_NG_ZW_C1_20230925093715.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0006_NG_ZW_C1_20230925093715.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0009_NG_ZW_C1_20230925093744.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0009_NG_ZW_C1_20230925093744.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0011_NG_ZW_C1_20230925093807.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0011_NG_ZW_C1_20230925093807.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0013_NG_ZW_C1_20230925093826.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0013_NG_ZW_C1_20230925093826.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0015_NG_ZW_C1_20230925093848.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0015_NG_ZW_C1_20230925093848.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0018_NG_ZW_C1_20230925093913.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0018_NG_ZW_C1_20230925093913.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0019_NG_ZW_C1_20230925093921.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0019_NG_ZW_C1_20230925093921.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0023_NG_ZW_C1_20230925094001.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0023_NG_ZW_C1_20230925094001.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0024_NG_ZW_C1_20230925094008.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0024_NG_ZW_C1_20230925094008.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0027_NG_ZW_C1_20230925094039.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0027_NG_ZW_C1_20230925094039.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0028_NG_ZW_C1_20230925094048.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0028_NG_ZW_C1_20230925094048.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0030_NG_ZW_C1_20230925094101.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0030_NG_ZW_C1_20230925094101.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0033_NG_ZW_C1_20230925094209.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0033_NG_ZW_C1_20230925094209.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0034_NG_ZW_C1_20230925094219.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0034_NG_ZW_C1_20230925094219.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0036_NG_ZW_C1_20230925094241.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0036_NG_ZW_C1_20230925094241.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0039_NG_ZW_C1_20230925094310.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0039_NG_ZW_C1_20230925094310.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0041_NG_ZW_C1_20230925094327.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0041_NG_ZW_C1_20230925094327.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0045_NG_ZW_C1_20230925094407.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0045_NG_ZW_C1_20230925094407.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0047_NG_ZW_C1_20230925094422.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0047_NG_ZW_C1_20230925094422.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0049_NG_ZW_C1_20230925094440.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0049_NG_ZW_C1_20230925094440.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0050_NG_ZW_C1_20230925094453.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0050_NG_ZW_C1_20230925094453.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0051_NG_ZW_C1_20230925094501.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0051_NG_ZW_C1_20230925094501.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0052_NG_ZW_C1_20230925094508.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0052_NG_ZW_C1_20230925094508.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0053_NG_ZW_C1_20230925094514.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0053_NG_ZW_C1_20230925094514.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0054_NG_ZW_C1_20230925094522.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0054_NG_ZW_C1_20230925094522.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0055_NG_ZW_C1_20230925094531.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0055_NG_ZW_C1_20230925094531.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0057_NG_ZW_C1_20230925094548.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0057_NG_ZW_C1_20230925094548.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0058_NG_ZW_C1_20230925094555.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0058_NG_ZW_C1_20230925094555.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0060_NG_ZW_C1_20230925094611.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0060_NG_ZW_C1_20230925094611.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0064_NG_ZW_C1_20230925094648.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0064_NG_ZW_C1_20230925094648.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0069_NG_ZW_C1_20230925094729.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0069_NG_ZW_C1_20230925094729.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0071_NG_ZW_C1_20230925094747.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0071_NG_ZW_C1_20230925094747.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0079_NG_ZW_C1_20230925094956.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0079_NG_ZW_C1_20230925094956.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0080_NG_ZW_C1_20230925095009.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0080_NG_ZW_C1_20230925095009.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0081_NG_ZW_C1_20230925095018.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0081_NG_ZW_C1_20230925095018.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0083_NG_ZW_C1_20230925095033.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0083_NG_ZW_C1_20230925095033.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0084_NG_ZW_C1_20230925095043.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0084_NG_ZW_C1_20230925095043.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0086_NG_ZW_C1_20230925095110.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0086_NG_ZW_C1_20230925095110.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0088_NG_ZW_C1_20230925095136.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0088_NG_ZW_C1_20230925095136.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0089_NG_ZW_C1_20230925095148.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0089_NG_ZW_C1_20230925095148.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0090_NG_ZW_C1_20230925095227.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0090_NG_ZW_C1_20230925095227.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0091_NG_ZW_C1_20230925095240.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0091_NG_ZW_C1_20230925095240.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0093_NG_ZW_C1_20230925095302.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0093_NG_ZW_C1_20230925095302.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0094_NG_ZW_C1_20230925095313.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0094_NG_ZW_C1_20230925095313.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0098_NG_ZW_C1_20230925095357.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0098_NG_ZW_C1_20230925095357.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0099_NG_ZW_C1_20230925095412.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0099_NG_ZW_C1_20230925095412.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0100_NG_ZW_C1_20230925095425.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0100_NG_ZW_C1_20230925095425.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0102_NG_ZW_C1_20230925095446.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0102_NG_ZW_C1_20230925095446.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0103_NG_ZW_C1_20230925095454.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0103_NG_ZW_C1_20230925095454.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0107_NG_ZW_C1_20230925095608.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0107_NG_ZW_C1_20230925095608.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0108_NG_ZW_C1_20230925095616.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0108_NG_ZW_C1_20230925095616.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0109_NG_ZW_C1_20230925095626.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0109_NG_ZW_C1_20230925095626.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0110_NG_ZW_C1_20230925095635.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0110_NG_ZW_C1_20230925095635.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0111_NG_ZW_C1_20230925095646.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0111_NG_ZW_C1_20230925095646.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0113_NG_ZW_C1_20230925095704.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0113_NG_ZW_C1_20230925095704.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0114_NG_ZW_C1_20230925095713.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0114_NG_ZW_C1_20230925095713.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0116_NG_ZW_C1_20230925095731.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0116_NG_ZW_C1_20230925095731.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0119_NG_ZW_C1_20230925100214.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0119_NG_ZW_C1_20230925100214.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0120_NG_ZW_C1_20230925095808.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0120_NG_ZW_C1_20230925095808.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0121_NG_ZW_C1_20230925095834.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0121_NG_ZW_C1_20230925095834.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0122_NG_ZW_C1_20230925095846.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0122_NG_ZW_C1_20230925095846.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0125_NG_ZW_C1_20230925095920.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0125_NG_ZW_C1_20230925095920.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0126_NG_ZW_C1_20230925095930.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0126_NG_ZW_C1_20230925095930.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_0127_NG_ZW_C1_20230925095940.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_0127_NG_ZW_C1_20230925095940.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_1209_NG_ZW_C1_20230923193128.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_1209_NG_ZW_C1_20230923193128.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "usb_adaptor/test/ZW/usb_adaptor_1234_NG_ZW_C1_20230923193619.jpg", "mask": "usb_adaptor/ground_truth/ZW/usb_adaptor_1234_NG_ZW_C1_20230923193619.png", "clsname": "usb_adaptor", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/QS/mint_0001_NG_QS_C1_20230908175027.jpg", "mask": "mint/ground_truth/QS/mint_0001_NG_QS_C1_20230908175027.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0003_NG_QS_C1_20230908175058.jpg", "mask": "mint/ground_truth/QS/mint_0003_NG_QS_C1_20230908175058.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0005_NG_QS_C1_20230908175122.jpg", "mask": "mint/ground_truth/QS/mint_0005_NG_QS_C1_20230908175122.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0008_NG_QS_C1_20230908175206.jpg", "mask": "mint/ground_truth/QS/mint_0008_NG_QS_C1_20230908175206.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0009_NG_QS_C1_20230908175216.jpg", "mask": "mint/ground_truth/QS/mint_0009_NG_QS_C1_20230908175216.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0011_NG_QS_C1_20230908175242.jpg", "mask": "mint/ground_truth/QS/mint_0011_NG_QS_C1_20230908175242.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0012_NG_QS_C1_20230908175252.jpg", "mask": "mint/ground_truth/QS/mint_0012_NG_QS_C1_20230908175252.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0013_NG_QS_C1_20230908175303.jpg", "mask": "mint/ground_truth/QS/mint_0013_NG_QS_C1_20230908175303.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0014_NG_QS_C1_20230908175313.jpg", "mask": "mint/ground_truth/QS/mint_0014_NG_QS_C1_20230908175313.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0015_NG_QS_C1_20230908175325.jpg", "mask": "mint/ground_truth/QS/mint_0015_NG_QS_C1_20230908175325.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0016_NG_QS_C1_20230910101356.jpg", "mask": "mint/ground_truth/QS/mint_0016_NG_QS_C1_20230910101356.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0017_NG_QS_C1_20230910101413.jpg", "mask": "mint/ground_truth/QS/mint_0017_NG_QS_C1_20230910101413.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0018_NG_QS_C1_20230910101421.jpg", "mask": "mint/ground_truth/QS/mint_0018_NG_QS_C1_20230910101421.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0020_NG_QS_C1_20230910101438.jpg", "mask": "mint/ground_truth/QS/mint_0020_NG_QS_C1_20230910101438.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0021_NG_QS_C1_20230910101445.jpg", "mask": "mint/ground_truth/QS/mint_0021_NG_QS_C1_20230910101445.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0025_NG_QS_C1_20230910101514.jpg", "mask": "mint/ground_truth/QS/mint_0025_NG_QS_C1_20230910101514.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0026_NG_QS_C1_20230910101528.jpg", "mask": "mint/ground_truth/QS/mint_0026_NG_QS_C1_20230910101528.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0034_NG_QS_C1_20230910101641.jpg", "mask": "mint/ground_truth/QS/mint_0034_NG_QS_C1_20230910101641.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0037_NG_QS_C1_20230910101705.jpg", "mask": "mint/ground_truth/QS/mint_0037_NG_QS_C1_20230910101705.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0038_NG_QS_C1_20230910101714.jpg", "mask": "mint/ground_truth/QS/mint_0038_NG_QS_C1_20230910101714.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0040_NG_QS_C1_20230910101730.jpg", "mask": "mint/ground_truth/QS/mint_0040_NG_QS_C1_20230910101730.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0043_NG_QS_C1_20230910101753.jpg", "mask": "mint/ground_truth/QS/mint_0043_NG_QS_C1_20230910101753.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0047_NG_QS_C1_20230910101825.jpg", "mask": "mint/ground_truth/QS/mint_0047_NG_QS_C1_20230910101825.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0053_NG_QS_C1_20230910101910.jpg", "mask": "mint/ground_truth/QS/mint_0053_NG_QS_C1_20230910101910.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0058_NG_QS_C1_20230910102126.jpg", "mask": "mint/ground_truth/QS/mint_0058_NG_QS_C1_20230910102126.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0059_NG_QS_C1_20230910102333.jpg", "mask": "mint/ground_truth/QS/mint_0059_NG_QS_C1_20230910102333.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0063_NG_QS_C1_20230910102444.jpg", "mask": "mint/ground_truth/QS/mint_0063_NG_QS_C1_20230910102444.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0065_NG_QS_C1_20230910102507.jpg", "mask": "mint/ground_truth/QS/mint_0065_NG_QS_C1_20230910102507.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0069_NG_QS_C1_20230910102551.jpg", "mask": "mint/ground_truth/QS/mint_0069_NG_QS_C1_20230910102551.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0074_NG_QS_C1_20230910102638.jpg", "mask": "mint/ground_truth/QS/mint_0074_NG_QS_C1_20230910102638.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0077_NG_QS_C1_20230910102707.jpg", "mask": "mint/ground_truth/QS/mint_0077_NG_QS_C1_20230910102707.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0078_NG_QS_C1_20230910102739.jpg", "mask": "mint/ground_truth/QS/mint_0078_NG_QS_C1_20230910102739.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0079_NG_QS_C1_20230910102754.jpg", "mask": "mint/ground_truth/QS/mint_0079_NG_QS_C1_20230910102754.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0086_NG_QS_C1_20230910102917.jpg", "mask": "mint/ground_truth/QS/mint_0086_NG_QS_C1_20230910102917.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0089_NG_QS_C1_20230910103009.jpg", "mask": "mint/ground_truth/QS/mint_0089_NG_QS_C1_20230910103009.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0113_NG_QS_C1_20230910103642.jpg", "mask": "mint/ground_truth/QS/mint_0113_NG_QS_C1_20230910103642.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0126_NG_QS_C1_20230910103851.jpg", "mask": "mint/ground_truth/QS/mint_0126_NG_QS_C1_20230910103851.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0135_NG_QS_C1_20230910104033.jpg", "mask": "mint/ground_truth/QS/mint_0135_NG_QS_C1_20230910104033.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0143_NG_QS_C1_20230910104156.jpg", "mask": "mint/ground_truth/QS/mint_0143_NG_QS_C1_20230910104156.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0148_NG_QS_C1_20230910105102.jpg", "mask": "mint/ground_truth/QS/mint_0148_NG_QS_C1_20230910105102.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0151_NG_QS_C1_20230910105134.jpg", "mask": "mint/ground_truth/QS/mint_0151_NG_QS_C1_20230910105134.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0154_NG_QS_C1_20230910105239.jpg", "mask": "mint/ground_truth/QS/mint_0154_NG_QS_C1_20230910105239.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0158_NG_QS_C1_20230910105337.jpg", "mask": "mint/ground_truth/QS/mint_0158_NG_QS_C1_20230910105337.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0162_NG_QS_C1_20230910105416.jpg", "mask": "mint/ground_truth/QS/mint_0162_NG_QS_C1_20230910105416.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0163_NG_QS_C1_20230910105427.jpg", "mask": "mint/ground_truth/QS/mint_0163_NG_QS_C1_20230910105427.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0165_NG_QS_C1_20230910105452.jpg", "mask": "mint/ground_truth/QS/mint_0165_NG_QS_C1_20230910105452.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0166_NG_QS_C1_20230910105504.jpg", "mask": "mint/ground_truth/QS/mint_0166_NG_QS_C1_20230910105504.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0170_NG_QS_C1_20230910105558.jpg", "mask": "mint/ground_truth/QS/mint_0170_NG_QS_C1_20230910105558.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0172_NG_QS_C1_20230910105619.jpg", "mask": "mint/ground_truth/QS/mint_0172_NG_QS_C1_20230910105619.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0173_NG_QS_C1_20230910105628.jpg", "mask": "mint/ground_truth/QS/mint_0173_NG_QS_C1_20230910105628.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/QS/mint_0175_NG_QS_C1_20230910105649.jpg", "mask": "mint/ground_truth/QS/mint_0175_NG_QS_C1_20230910105649.png", "clsname": "mint", "label": 1, "label_name": "QS"}
+{"filename": "mint/test/OK/mint_0007_NG_QS_C1_20230908175157.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0029_NG_QS_C1_20230910101552.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0032_NG_QS_C1_20230910101627.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0041_NG_QS_C1_20230910101737.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0060_NG_QS_C1_20230910102347.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0066_NG_QS_C1_20230910102521.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0085_NG_QS_C1_20230910102907.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1449_NG_QS_C1_20230908162216.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0047_NG_YW_C1_20230910112121.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0053_NG_YW_C1_20230910112448.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0075_NG_YW_C1_20230910113200.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0106_NG_YW_C1_20230910114221.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0133_NG_YW_C1_20230910115009.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1005_NG_YW_C1_20230908132140.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1225_NG_YW_C1_20230908152039.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1292_NG_YW_C1_20230908153600.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1357_NG_YW_C1_20230908154859.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1413_NG_YW_C1_20230908160304.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1474_NG_YW_C1_20230908163339.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0066_NG_ZW_C1_20230910095438.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0068_NG_ZW_C1_20230910095452.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0071_NG_ZW_C1_20230910095535.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0103_NG_ZW_C1_20230910100103.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0115_NG_ZW_C1_20230910100307.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0116_NG_ZW_C1_20230910100314.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0128_NG_ZW_C1_20230910100453.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0134_NG_ZW_C1_20230910100552.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0136_NG_ZW_C1_20230910100608.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0141_NG_ZW_C1_20230910100648.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0148_NG_ZW_C1_20230910100748.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0161_NG_ZW_C1_20230910100939.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0167_NG_ZW_C1_20230910101029.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1237_NG_ZW_C1_20230908152424.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1311_NG_ZW_C1_20230908153937.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1384_NG_ZW_C1_20230908155411.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1418_NG_ZW_C1_20230908160351.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_1460_NG_ZW_C1_20230908162520.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0009_OK_C1_20230908133619.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0015_OK_C1_20230908133931.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0017_OK_C1_20230908135045.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0026_OK_C1_20230908135850.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0030_OK_C1_20230908140122.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0038_OK_C1_20230908140513.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0041_OK_C1_20230908140655.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0060_OK_C1_20230908141550.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0070_OK_C1_20230908142112.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0073_OK_C1_20230908142226.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0084_OK_C1_20230908142659.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0086_OK_C1_20230908142736.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0088_OK_C1_20230908142759.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0094_OK_C1_20230908143102.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0097_OK_C1_20230908143135.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0105_OK_C1_20230908143258.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0113_OK_C1_20230908143456.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0116_OK_C1_20230908143644.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0129_OK_C1_20230908144003.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0131_OK_C1_20230908144017.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0132_OK_C1_20230908144024.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0134_OK_C1_20230908144038.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0145_OK_C1_20230908144251.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0155_OK_C1_20230908144628.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0161_OK_C1_20230908144817.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0171_OK_C1_20230908145006.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0180_OK_C1_20230908145228.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0194_OK_C1_20230908145555.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0202_OK_C1_20230908145730.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0205_OK_C1_20230908145750.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0210_OK_C1_20230908151517.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0217_OK_C1_20230908151840.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0219_OK_C1_20230908151938.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0223_OK_C1_20230908152021.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0232_OK_C1_20230908152325.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0235_OK_C1_20230908152409.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0239_OK_C1_20230908152527.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0241_OK_C1_20230908152543.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0245_OK_C1_20230908152714.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0249_OK_C1_20230908152805.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0253_OK_C1_20230908152910.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0255_OK_C1_20230908152926.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0267_OK_C1_20230908153136.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0271_OK_C1_20230908153209.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0290_OK_C1_20230908153544.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0294_OK_C1_20230908153634.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0299_OK_C1_20230908153739.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0310_OK_C1_20230908153930.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0319_OK_C1_20230908154108.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0323_OK_C1_20230908154137.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0350_OK_C1_20230908154808.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0367_OK_C1_20230908155125.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0401_OK_C1_20230908155826.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0416_OK_C1_20230908160330.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0420_OK_C1_20230908161600.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0440_OK_C1_20230908162033.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0442_OK_C1_20230908162046.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0450_OK_C1_20230908162223.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0469_OK_C1_20230908163254.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0486_OK_C1_20230908163721.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_0497_OK_C1_20230908164119.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/OK/mint_2001_OK_C1_20230908154247.jpg", "clsname": "mint", "label": 0, "label_name": "OK"}
+{"filename": "mint/test/YW/mint_0001_NG_YW_C1_20230910110301.jpg", "mask": "mint/ground_truth/YW/mint_0001_NG_YW_C1_20230910110301.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0002_NG_YW_C1_20230910110404.jpg", "mask": "mint/ground_truth/YW/mint_0002_NG_YW_C1_20230910110404.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0004_NG_YW_C1_20230910110456.jpg", "mask": "mint/ground_truth/YW/mint_0004_NG_YW_C1_20230910110456.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0005_NG_YW_C1_20230910110656.jpg", "mask": "mint/ground_truth/YW/mint_0005_NG_YW_C1_20230910110656.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0006_NG_YW_C1_20230910110743.jpg", "mask": "mint/ground_truth/YW/mint_0006_NG_YW_C1_20230910110743.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0007_NG_YW_C1_20230910110814.jpg", "mask": "mint/ground_truth/YW/mint_0007_NG_YW_C1_20230910110814.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0008_NG_YW_C1_20230910110835.jpg", "mask": "mint/ground_truth/YW/mint_0008_NG_YW_C1_20230910110835.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0009_NG_YW_C1_20230910110918.jpg", "mask": "mint/ground_truth/YW/mint_0009_NG_YW_C1_20230910110918.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0011_NG_YW_C1_20230910110955.jpg", "mask": "mint/ground_truth/YW/mint_0011_NG_YW_C1_20230910110955.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0012_NG_YW_C1_20230910111017.jpg", "mask": "mint/ground_truth/YW/mint_0012_NG_YW_C1_20230910111017.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0013_NG_YW_C1_20230910111032.jpg", "mask": "mint/ground_truth/YW/mint_0013_NG_YW_C1_20230910111032.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0014_NG_YW_C1_20230910111050.jpg", "mask": "mint/ground_truth/YW/mint_0014_NG_YW_C1_20230910111050.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0017_NG_YW_C1_20230910111143.jpg", "mask": "mint/ground_truth/YW/mint_0017_NG_YW_C1_20230910111143.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0019_NG_YW_C1_20230910111214.jpg", "mask": "mint/ground_truth/YW/mint_0019_NG_YW_C1_20230910111214.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0020_NG_YW_C1_20230910111227.jpg", "mask": "mint/ground_truth/YW/mint_0020_NG_YW_C1_20230910111227.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0021_NG_YW_C1_20230910111240.jpg", "mask": "mint/ground_truth/YW/mint_0021_NG_YW_C1_20230910111240.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0022_NG_YW_C1_20230910111255.jpg", "mask": "mint/ground_truth/YW/mint_0022_NG_YW_C1_20230910111255.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0023_NG_YW_C1_20230910111310.jpg", "mask": "mint/ground_truth/YW/mint_0023_NG_YW_C1_20230910111310.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0024_NG_YW_C1_20230910111329.jpg", "mask": "mint/ground_truth/YW/mint_0024_NG_YW_C1_20230910111329.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0025_NG_YW_C1_20230910111344.jpg", "mask": "mint/ground_truth/YW/mint_0025_NG_YW_C1_20230910111344.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0026_NG_YW_C1_20230910111407.jpg", "mask": "mint/ground_truth/YW/mint_0026_NG_YW_C1_20230910111407.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0027_NG_YW_C1_20230910111423.jpg", "mask": "mint/ground_truth/YW/mint_0027_NG_YW_C1_20230910111423.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0028_NG_YW_C1_20230910111437.jpg", "mask": "mint/ground_truth/YW/mint_0028_NG_YW_C1_20230910111437.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0029_NG_YW_C1_20230910111454.jpg", "mask": "mint/ground_truth/YW/mint_0029_NG_YW_C1_20230910111454.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0031_NG_YW_C1_20230910111529.jpg", "mask": "mint/ground_truth/YW/mint_0031_NG_YW_C1_20230910111529.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0033_NG_YW_C1_20230910111557.jpg", "mask": "mint/ground_truth/YW/mint_0033_NG_YW_C1_20230910111557.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0035_NG_YW_C1_20230910111643.jpg", "mask": "mint/ground_truth/YW/mint_0035_NG_YW_C1_20230910111643.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0036_NG_YW_C1_20230910111711.jpg", "mask": "mint/ground_truth/YW/mint_0036_NG_YW_C1_20230910111711.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0037_NG_YW_C1_20230910111725.jpg", "mask": "mint/ground_truth/YW/mint_0037_NG_YW_C1_20230910111725.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0038_NG_YW_C1_20230910111742.jpg", "mask": "mint/ground_truth/YW/mint_0038_NG_YW_C1_20230910111742.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0040_NG_YW_C1_20230910111837.jpg", "mask": "mint/ground_truth/YW/mint_0040_NG_YW_C1_20230910111837.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0041_NG_YW_C1_20230910111853.jpg", "mask": "mint/ground_truth/YW/mint_0041_NG_YW_C1_20230910111853.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0044_NG_YW_C1_20230910112019.jpg", "mask": "mint/ground_truth/YW/mint_0044_NG_YW_C1_20230910112019.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0045_NG_YW_C1_20230910112041.jpg", "mask": "mint/ground_truth/YW/mint_0045_NG_YW_C1_20230910112041.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0050_NG_YW_C1_20230910112208.jpg", "mask": "mint/ground_truth/YW/mint_0050_NG_YW_C1_20230910112208.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0051_NG_YW_C1_20230910112247.jpg", "mask": "mint/ground_truth/YW/mint_0051_NG_YW_C1_20230910112247.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0052_NG_YW_C1_20230910112303.jpg", "mask": "mint/ground_truth/YW/mint_0052_NG_YW_C1_20230910112303.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0054_NG_YW_C1_20230910112509.jpg", "mask": "mint/ground_truth/YW/mint_0054_NG_YW_C1_20230910112509.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0055_NG_YW_C1_20230910112542.jpg", "mask": "mint/ground_truth/YW/mint_0055_NG_YW_C1_20230910112542.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0056_NG_YW_C1_20230910112554.jpg", "mask": "mint/ground_truth/YW/mint_0056_NG_YW_C1_20230910112554.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0057_NG_YW_C1_20230910112616.jpg", "mask": "mint/ground_truth/YW/mint_0057_NG_YW_C1_20230910112616.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0058_NG_YW_C1_20230910112633.jpg", "mask": "mint/ground_truth/YW/mint_0058_NG_YW_C1_20230910112633.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0059_NG_YW_C1_20230910112654.jpg", "mask": "mint/ground_truth/YW/mint_0059_NG_YW_C1_20230910112654.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0063_NG_YW_C1_20230910112814.jpg", "mask": "mint/ground_truth/YW/mint_0063_NG_YW_C1_20230910112814.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0065_NG_YW_C1_20230910112851.jpg", "mask": "mint/ground_truth/YW/mint_0065_NG_YW_C1_20230910112851.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0066_NG_YW_C1_20230910112907.jpg", "mask": "mint/ground_truth/YW/mint_0066_NG_YW_C1_20230910112907.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0067_NG_YW_C1_20230910112923.jpg", "mask": "mint/ground_truth/YW/mint_0067_NG_YW_C1_20230910112923.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0069_NG_YW_C1_20230910112954.jpg", "mask": "mint/ground_truth/YW/mint_0069_NG_YW_C1_20230910112954.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0070_NG_YW_C1_20230910113010.jpg", "mask": "mint/ground_truth/YW/mint_0070_NG_YW_C1_20230910113010.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0071_NG_YW_C1_20230910113025.jpg", "mask": "mint/ground_truth/YW/mint_0071_NG_YW_C1_20230910113025.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0073_NG_YW_C1_20230910113049.jpg", "mask": "mint/ground_truth/YW/mint_0073_NG_YW_C1_20230910113049.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0076_NG_YW_C1_20230910113217.jpg", "mask": "mint/ground_truth/YW/mint_0076_NG_YW_C1_20230910113217.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0079_NG_YW_C1_20230910113259.jpg", "mask": "mint/ground_truth/YW/mint_0079_NG_YW_C1_20230910113259.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0080_NG_YW_C1_20230910113316.jpg", "mask": "mint/ground_truth/YW/mint_0080_NG_YW_C1_20230910113316.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0081_NG_YW_C1_20230910113440.jpg", "mask": "mint/ground_truth/YW/mint_0081_NG_YW_C1_20230910113440.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0085_NG_YW_C1_20230910113607.jpg", "mask": "mint/ground_truth/YW/mint_0085_NG_YW_C1_20230910113607.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0086_NG_YW_C1_20230910113623.jpg", "mask": "mint/ground_truth/YW/mint_0086_NG_YW_C1_20230910113623.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0088_NG_YW_C1_20230910113657.jpg", "mask": "mint/ground_truth/YW/mint_0088_NG_YW_C1_20230910113657.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0090_NG_YW_C1_20230910113723.jpg", "mask": "mint/ground_truth/YW/mint_0090_NG_YW_C1_20230910113723.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0091_NG_YW_C1_20230910113734.jpg", "mask": "mint/ground_truth/YW/mint_0091_NG_YW_C1_20230910113734.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0092_NG_YW_C1_20230910113748.jpg", "mask": "mint/ground_truth/YW/mint_0092_NG_YW_C1_20230910113748.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0093_NG_YW_C1_20230910113801.jpg", "mask": "mint/ground_truth/YW/mint_0093_NG_YW_C1_20230910113801.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0094_NG_YW_C1_20230910113825.jpg", "mask": "mint/ground_truth/YW/mint_0094_NG_YW_C1_20230910113825.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0095_NG_YW_C1_20230910113837.jpg", "mask": "mint/ground_truth/YW/mint_0095_NG_YW_C1_20230910113837.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0096_NG_YW_C1_20230910113850.jpg", "mask": "mint/ground_truth/YW/mint_0096_NG_YW_C1_20230910113850.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0098_NG_YW_C1_20230910113921.jpg", "mask": "mint/ground_truth/YW/mint_0098_NG_YW_C1_20230910113921.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0099_NG_YW_C1_20230910113939.jpg", "mask": "mint/ground_truth/YW/mint_0099_NG_YW_C1_20230910113939.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0100_NG_YW_C1_20230910113949.jpg", "mask": "mint/ground_truth/YW/mint_0100_NG_YW_C1_20230910113949.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0101_NG_YW_C1_20230910114012.jpg", "mask": "mint/ground_truth/YW/mint_0101_NG_YW_C1_20230910114012.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0103_NG_YW_C1_20230910114046.jpg", "mask": "mint/ground_truth/YW/mint_0103_NG_YW_C1_20230910114046.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0104_NG_YW_C1_20230910114105.jpg", "mask": "mint/ground_truth/YW/mint_0104_NG_YW_C1_20230910114105.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0105_NG_YW_C1_20230910114210.jpg", "mask": "mint/ground_truth/YW/mint_0105_NG_YW_C1_20230910114210.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0107_NG_YW_C1_20230910114246.jpg", "mask": "mint/ground_truth/YW/mint_0107_NG_YW_C1_20230910114246.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0108_NG_YW_C1_20230910114258.jpg", "mask": "mint/ground_truth/YW/mint_0108_NG_YW_C1_20230910114258.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0109_NG_YW_C1_20230910114309.jpg", "mask": "mint/ground_truth/YW/mint_0109_NG_YW_C1_20230910114309.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0110_NG_YW_C1_20230910114421.jpg", "mask": "mint/ground_truth/YW/mint_0110_NG_YW_C1_20230910114421.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0112_NG_YW_C1_20230910114458.jpg", "mask": "mint/ground_truth/YW/mint_0112_NG_YW_C1_20230910114458.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0113_NG_YW_C1_20230910114512.jpg", "mask": "mint/ground_truth/YW/mint_0113_NG_YW_C1_20230910114512.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0114_NG_YW_C1_20230910114527.jpg", "mask": "mint/ground_truth/YW/mint_0114_NG_YW_C1_20230910114527.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0115_NG_YW_C1_20230910114545.jpg", "mask": "mint/ground_truth/YW/mint_0115_NG_YW_C1_20230910114545.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0116_NG_YW_C1_20230910114601.jpg", "mask": "mint/ground_truth/YW/mint_0116_NG_YW_C1_20230910114601.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0117_NG_YW_C1_20230910114619.jpg", "mask": "mint/ground_truth/YW/mint_0117_NG_YW_C1_20230910114619.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0118_NG_YW_C1_20230910114633.jpg", "mask": "mint/ground_truth/YW/mint_0118_NG_YW_C1_20230910114633.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0119_NG_YW_C1_20230910114647.jpg", "mask": "mint/ground_truth/YW/mint_0119_NG_YW_C1_20230910114647.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0120_NG_YW_C1_20230910114704.jpg", "mask": "mint/ground_truth/YW/mint_0120_NG_YW_C1_20230910114704.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0121_NG_YW_C1_20230910114718.jpg", "mask": "mint/ground_truth/YW/mint_0121_NG_YW_C1_20230910114718.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0122_NG_YW_C1_20230910114730.jpg", "mask": "mint/ground_truth/YW/mint_0122_NG_YW_C1_20230910114730.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0125_NG_YW_C1_20230910114819.jpg", "mask": "mint/ground_truth/YW/mint_0125_NG_YW_C1_20230910114819.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0126_NG_YW_C1_20230910114836.jpg", "mask": "mint/ground_truth/YW/mint_0126_NG_YW_C1_20230910114836.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0127_NG_YW_C1_20230910114848.jpg", "mask": "mint/ground_truth/YW/mint_0127_NG_YW_C1_20230910114848.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0128_NG_YW_C1_20230910114900.jpg", "mask": "mint/ground_truth/YW/mint_0128_NG_YW_C1_20230910114900.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0130_NG_YW_C1_20230910114923.jpg", "mask": "mint/ground_truth/YW/mint_0130_NG_YW_C1_20230910114923.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0134_NG_YW_C1_20230910115021.jpg", "mask": "mint/ground_truth/YW/mint_0134_NG_YW_C1_20230910115021.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0135_NG_YW_C1_20230910115033.jpg", "mask": "mint/ground_truth/YW/mint_0135_NG_YW_C1_20230910115033.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0136_NG_YW_C1_20230910130948.jpg", "mask": "mint/ground_truth/YW/mint_0136_NG_YW_C1_20230910130948.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0138_NG_YW_C1_20230910131752.jpg", "mask": "mint/ground_truth/YW/mint_0138_NG_YW_C1_20230910131752.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0144_NG_YW_C1_20230910132337.jpg", "mask": "mint/ground_truth/YW/mint_0144_NG_YW_C1_20230910132337.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0145_NG_YW_C1_20230910132406.jpg", "mask": "mint/ground_truth/YW/mint_0145_NG_YW_C1_20230910132406.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0146_NG_YW_C1_20230910132450.jpg", "mask": "mint/ground_truth/YW/mint_0146_NG_YW_C1_20230910132450.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0148_NG_YW_C1_20230910132617.jpg", "mask": "mint/ground_truth/YW/mint_0148_NG_YW_C1_20230910132617.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0149_NG_YW_C1_20230910132745.jpg", "mask": "mint/ground_truth/YW/mint_0149_NG_YW_C1_20230910132745.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0153_NG_YW_C1_20230910132935.jpg", "mask": "mint/ground_truth/YW/mint_0153_NG_YW_C1_20230910132935.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0154_NG_YW_C1_20230910132953.jpg", "mask": "mint/ground_truth/YW/mint_0154_NG_YW_C1_20230910132953.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0156_NG_YW_C1_20230910133040.jpg", "mask": "mint/ground_truth/YW/mint_0156_NG_YW_C1_20230910133040.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0158_NG_YW_C1_20230910133239.jpg", "mask": "mint/ground_truth/YW/mint_0158_NG_YW_C1_20230910133239.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0159_NG_YW_C1_20230910133256.jpg", "mask": "mint/ground_truth/YW/mint_0159_NG_YW_C1_20230910133256.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0160_NG_YW_C1_20230910133333.jpg", "mask": "mint/ground_truth/YW/mint_0160_NG_YW_C1_20230910133333.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0161_NG_YW_C1_20230910133347.jpg", "mask": "mint/ground_truth/YW/mint_0161_NG_YW_C1_20230910133347.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0162_NG_YW_C1_20230910133404.jpg", "mask": "mint/ground_truth/YW/mint_0162_NG_YW_C1_20230910133404.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0163_NG_YW_C1_20230910133421.jpg", "mask": "mint/ground_truth/YW/mint_0163_NG_YW_C1_20230910133421.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0164_NG_YW_C1_20230910133451.jpg", "mask": "mint/ground_truth/YW/mint_0164_NG_YW_C1_20230910133451.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0165_NG_YW_C1_20230910133527.jpg", "mask": "mint/ground_truth/YW/mint_0165_NG_YW_C1_20230910133527.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0166_NG_YW_C1_20230910133613.jpg", "mask": "mint/ground_truth/YW/mint_0166_NG_YW_C1_20230910133613.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0167_NG_YW_C1_20230910133627.jpg", "mask": "mint/ground_truth/YW/mint_0167_NG_YW_C1_20230910133627.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0171_NG_YW_C1_20230910133834.jpg", "mask": "mint/ground_truth/YW/mint_0171_NG_YW_C1_20230910133834.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0173_NG_YW_C1_20230910133930.jpg", "mask": "mint/ground_truth/YW/mint_0173_NG_YW_C1_20230910133930.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0174_NG_YW_C1_20230910133953.jpg", "mask": "mint/ground_truth/YW/mint_0174_NG_YW_C1_20230910133953.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_0175_NG_YW_C1_20230910134009.jpg", "mask": "mint/ground_truth/YW/mint_0175_NG_YW_C1_20230910134009.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1016_NG_YW_C1_20230908134930.jpg", "mask": "mint/ground_truth/YW/mint_1016_NG_YW_C1_20230908134930.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1031_NG_YW_C1_20230908140141.jpg", "mask": "mint/ground_truth/YW/mint_1031_NG_YW_C1_20230908140141.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1039_NG_YW_C1_20230908140617.jpg", "mask": "mint/ground_truth/YW/mint_1039_NG_YW_C1_20230908140617.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1042_NG_YW_C1_20230908140717.jpg", "mask": "mint/ground_truth/YW/mint_1042_NG_YW_C1_20230908140717.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1063_NG_YW_C1_20230908141827.jpg", "mask": "mint/ground_truth/YW/mint_1063_NG_YW_C1_20230908141827.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1064_NG_YW_C1_20230908141845.jpg", "mask": "mint/ground_truth/YW/mint_1064_NG_YW_C1_20230908141845.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1065_NG_YW_C1_20230908141907.jpg", "mask": "mint/ground_truth/YW/mint_1065_NG_YW_C1_20230908141907.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1076_NG_YW_C1_20230908142355.jpg", "mask": "mint/ground_truth/YW/mint_1076_NG_YW_C1_20230908142355.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1096_NG_YW_C1_20230908143125.jpg", "mask": "mint/ground_truth/YW/mint_1096_NG_YW_C1_20230908143125.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1100_NG_YW_C1_20230908143159.jpg", "mask": "mint/ground_truth/YW/mint_1100_NG_YW_C1_20230908143159.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1103_NG_YW_C1_20230908143223.jpg", "mask": "mint/ground_truth/YW/mint_1103_NG_YW_C1_20230908143223.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1104_NG_YW_C1_20230908143247.jpg", "mask": "mint/ground_truth/YW/mint_1104_NG_YW_C1_20230908143247.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1115_NG_YW_C1_20230908143511.jpg", "mask": "mint/ground_truth/YW/mint_1115_NG_YW_C1_20230908143511.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1144_NG_YW_C1_20230908144242.jpg", "mask": "mint/ground_truth/YW/mint_1144_NG_YW_C1_20230908144242.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1146_NG_YW_C1_20230908144259.jpg", "mask": "mint/ground_truth/YW/mint_1146_NG_YW_C1_20230908144259.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1158_NG_YW_C1_20230908144752.jpg", "mask": "mint/ground_truth/YW/mint_1158_NG_YW_C1_20230908144752.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1168_NG_YW_C1_20230908144945.jpg", "mask": "mint/ground_truth/YW/mint_1168_NG_YW_C1_20230908144945.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1170_NG_YW_C1_20230908144959.jpg", "mask": "mint/ground_truth/YW/mint_1170_NG_YW_C1_20230908144959.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1183_NG_YW_C1_20230908145308.jpg", "mask": "mint/ground_truth/YW/mint_1183_NG_YW_C1_20230908145308.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1184_NG_YW_C1_20230908145337.jpg", "mask": "mint/ground_truth/YW/mint_1184_NG_YW_C1_20230908145337.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1192_NG_YW_C1_20230908145541.jpg", "mask": "mint/ground_truth/YW/mint_1192_NG_YW_C1_20230908145541.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1215_NG_YW_C1_20230908151747.jpg", "mask": "mint/ground_truth/YW/mint_1215_NG_YW_C1_20230908151747.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1229_NG_YW_C1_20230908152200.jpg", "mask": "mint/ground_truth/YW/mint_1229_NG_YW_C1_20230908152200.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1251_NG_YW_C1_20230908152855.jpg", "mask": "mint/ground_truth/YW/mint_1251_NG_YW_C1_20230908152855.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1264_NG_YW_C1_20230908153112.jpg", "mask": "mint/ground_truth/YW/mint_1264_NG_YW_C1_20230908153112.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1275_NG_YW_C1_20230908153238.jpg", "mask": "mint/ground_truth/YW/mint_1275_NG_YW_C1_20230908153238.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1286_NG_YW_C1_20230908153514.jpg", "mask": "mint/ground_truth/YW/mint_1286_NG_YW_C1_20230908153514.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1287_NG_YW_C1_20230908153522.jpg", "mask": "mint/ground_truth/YW/mint_1287_NG_YW_C1_20230908153522.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1289_NG_YW_C1_20230908153537.jpg", "mask": "mint/ground_truth/YW/mint_1289_NG_YW_C1_20230908153537.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1295_NG_YW_C1_20230908153649.jpg", "mask": "mint/ground_truth/YW/mint_1295_NG_YW_C1_20230908153649.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1304_NG_YW_C1_20230908153818.jpg", "mask": "mint/ground_truth/YW/mint_1304_NG_YW_C1_20230908153818.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1312_NG_YW_C1_20230908153943.jpg", "mask": "mint/ground_truth/YW/mint_1312_NG_YW_C1_20230908153943.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1330_NG_YW_C1_20230908154231.jpg", "mask": "mint/ground_truth/YW/mint_1330_NG_YW_C1_20230908154231.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1341_NG_YW_C1_20230908154503.jpg", "mask": "mint/ground_truth/YW/mint_1341_NG_YW_C1_20230908154503.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1365_NG_YW_C1_20230908155102.jpg", "mask": "mint/ground_truth/YW/mint_1365_NG_YW_C1_20230908155102.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1378_NG_YW_C1_20230908155258.jpg", "mask": "mint/ground_truth/YW/mint_1378_NG_YW_C1_20230908155258.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1386_NG_YW_C1_20230908155427.jpg", "mask": "mint/ground_truth/YW/mint_1386_NG_YW_C1_20230908155427.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1388_NG_YW_C1_20230908155528.jpg", "mask": "mint/ground_truth/YW/mint_1388_NG_YW_C1_20230908155528.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1397_NG_YW_C1_20230908155723.jpg", "mask": "mint/ground_truth/YW/mint_1397_NG_YW_C1_20230908155723.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1404_NG_YW_C1_20230908155852.jpg", "mask": "mint/ground_truth/YW/mint_1404_NG_YW_C1_20230908155852.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1406_NG_YW_C1_20230908155907.jpg", "mask": "mint/ground_truth/YW/mint_1406_NG_YW_C1_20230908155907.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1410_NG_YW_C1_20230908160209.jpg", "mask": "mint/ground_truth/YW/mint_1410_NG_YW_C1_20230908160209.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1411_NG_YW_C1_20230908160216.jpg", "mask": "mint/ground_truth/YW/mint_1411_NG_YW_C1_20230908160216.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1427_NG_YW_C1_20230908161725.jpg", "mask": "mint/ground_truth/YW/mint_1427_NG_YW_C1_20230908161725.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1435_NG_YW_C1_20230908161939.jpg", "mask": "mint/ground_truth/YW/mint_1435_NG_YW_C1_20230908161939.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1448_NG_YW_C1_20230908162208.jpg", "mask": "mint/ground_truth/YW/mint_1448_NG_YW_C1_20230908162208.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1455_NG_YW_C1_20230908162442.jpg", "mask": "mint/ground_truth/YW/mint_1455_NG_YW_C1_20230908162442.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1456_NG_YW_C1_20230908162449.jpg", "mask": "mint/ground_truth/YW/mint_1456_NG_YW_C1_20230908162449.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1461_NG_YW_C1_20230908162528.jpg", "mask": "mint/ground_truth/YW/mint_1461_NG_YW_C1_20230908162528.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1470_NG_YW_C1_20230908163302.jpg", "mask": "mint/ground_truth/YW/mint_1470_NG_YW_C1_20230908163302.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1475_NG_YW_C1_20230908163349.jpg", "mask": "mint/ground_truth/YW/mint_1475_NG_YW_C1_20230908163349.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1476_NG_YW_C1_20230908163413.jpg", "mask": "mint/ground_truth/YW/mint_1476_NG_YW_C1_20230908163413.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1479_NG_YW_C1_20230908163527.jpg", "mask": "mint/ground_truth/YW/mint_1479_NG_YW_C1_20230908163527.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1485_NG_YW_C1_20230908163712.jpg", "mask": "mint/ground_truth/YW/mint_1485_NG_YW_C1_20230908163712.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1489_NG_YW_C1_20230908163940.jpg", "mask": "mint/ground_truth/YW/mint_1489_NG_YW_C1_20230908163940.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1490_NG_YW_C1_20230908164003.jpg", "mask": "mint/ground_truth/YW/mint_1490_NG_YW_C1_20230908164003.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1492_NG_YW_C1_20230908164038.jpg", "mask": "mint/ground_truth/YW/mint_1492_NG_YW_C1_20230908164038.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/YW/mint_1494_NG_YW_C1_20230908164055.jpg", "mask": "mint/ground_truth/YW/mint_1494_NG_YW_C1_20230908164055.png", "clsname": "mint", "label": 1, "label_name": "YW"}
+{"filename": "mint/test/ZW/mint_0004_NG_ZW_C1_20230908165333.jpg", "mask": "mint/ground_truth/ZW/mint_0004_NG_ZW_C1_20230908165333.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0005_NG_ZW_C1_20230908165341.jpg", "mask": "mint/ground_truth/ZW/mint_0005_NG_ZW_C1_20230908165341.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0010_NG_ZW_C1_20230908165420.jpg", "mask": "mint/ground_truth/ZW/mint_0010_NG_ZW_C1_20230908165420.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0011_NG_ZW_C1_20230908165427.jpg", "mask": "mint/ground_truth/ZW/mint_0011_NG_ZW_C1_20230908165427.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0012_NG_ZW_C1_20230908165432.jpg", "mask": "mint/ground_truth/ZW/mint_0012_NG_ZW_C1_20230908165432.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0015_NG_ZW_C1_20230908165449.jpg", "mask": "mint/ground_truth/ZW/mint_0015_NG_ZW_C1_20230908165449.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0017_NG_ZW_C1_20230908165502.jpg", "mask": "mint/ground_truth/ZW/mint_0017_NG_ZW_C1_20230908165502.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0026_NG_ZW_C1_20230908165705.jpg", "mask": "mint/ground_truth/ZW/mint_0026_NG_ZW_C1_20230908165705.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0028_NG_ZW_C1_20230908165720.jpg", "mask": "mint/ground_truth/ZW/mint_0028_NG_ZW_C1_20230908165720.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0029_NG_ZW_C1_20230908165728.jpg", "mask": "mint/ground_truth/ZW/mint_0029_NG_ZW_C1_20230908165728.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0030_NG_ZW_C1_20230908165733.jpg", "mask": "mint/ground_truth/ZW/mint_0030_NG_ZW_C1_20230908165733.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0033_NG_ZW_C1_20230908165752.jpg", "mask": "mint/ground_truth/ZW/mint_0033_NG_ZW_C1_20230908165752.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0034_NG_ZW_C1_20230908165759.jpg", "mask": "mint/ground_truth/ZW/mint_0034_NG_ZW_C1_20230908165759.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0042_NG_ZW_C1_20230908174404.jpg", "mask": "mint/ground_truth/ZW/mint_0042_NG_ZW_C1_20230908174404.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0046_NG_ZW_C1_20230908174621.jpg", "mask": "mint/ground_truth/ZW/mint_0046_NG_ZW_C1_20230908174621.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0048_NG_ZW_C1_20230908174748.jpg", "mask": "mint/ground_truth/ZW/mint_0048_NG_ZW_C1_20230908174748.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0050_NG_ZW_C1_20230910095128.jpg", "mask": "mint/ground_truth/ZW/mint_0050_NG_ZW_C1_20230910095128.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0051_NG_ZW_C1_20230910095155.jpg", "mask": "mint/ground_truth/ZW/mint_0051_NG_ZW_C1_20230910095155.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0053_NG_ZW_C1_20230910095220.jpg", "mask": "mint/ground_truth/ZW/mint_0053_NG_ZW_C1_20230910095220.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0054_NG_ZW_C1_20230910095226.jpg", "mask": "mint/ground_truth/ZW/mint_0054_NG_ZW_C1_20230910095226.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0056_NG_ZW_C1_20230910095259.jpg", "mask": "mint/ground_truth/ZW/mint_0056_NG_ZW_C1_20230910095259.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0060_NG_ZW_C1_20230910095334.jpg", "mask": "mint/ground_truth/ZW/mint_0060_NG_ZW_C1_20230910095334.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0061_NG_ZW_C1_20230910095343.jpg", "mask": "mint/ground_truth/ZW/mint_0061_NG_ZW_C1_20230910095343.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0062_NG_ZW_C1_20230910095402.jpg", "mask": "mint/ground_truth/ZW/mint_0062_NG_ZW_C1_20230910095402.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0063_NG_ZW_C1_20230910095409.jpg", "mask": "mint/ground_truth/ZW/mint_0063_NG_ZW_C1_20230910095409.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0067_NG_ZW_C1_20230910095445.jpg", "mask": "mint/ground_truth/ZW/mint_0067_NG_ZW_C1_20230910095445.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0070_NG_ZW_C1_20230910095530.jpg", "mask": "mint/ground_truth/ZW/mint_0070_NG_ZW_C1_20230910095530.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0074_NG_ZW_C1_20230910095557.jpg", "mask": "mint/ground_truth/ZW/mint_0074_NG_ZW_C1_20230910095557.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0075_NG_ZW_C1_20230910095618.jpg", "mask": "mint/ground_truth/ZW/mint_0075_NG_ZW_C1_20230910095618.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0078_NG_ZW_C1_20230910095658.jpg", "mask": "mint/ground_truth/ZW/mint_0078_NG_ZW_C1_20230910095658.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0079_NG_ZW_C1_20230910095712.jpg", "mask": "mint/ground_truth/ZW/mint_0079_NG_ZW_C1_20230910095712.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0082_NG_ZW_C1_20230910095747.jpg", "mask": "mint/ground_truth/ZW/mint_0082_NG_ZW_C1_20230910095747.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0084_NG_ZW_C1_20230910095800.jpg", "mask": "mint/ground_truth/ZW/mint_0084_NG_ZW_C1_20230910095800.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0085_NG_ZW_C1_20230910095808.jpg", "mask": "mint/ground_truth/ZW/mint_0085_NG_ZW_C1_20230910095808.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0086_NG_ZW_C1_20230910095815.jpg", "mask": "mint/ground_truth/ZW/mint_0086_NG_ZW_C1_20230910095815.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0087_NG_ZW_C1_20230910095823.jpg", "mask": "mint/ground_truth/ZW/mint_0087_NG_ZW_C1_20230910095823.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0101_NG_ZW_C1_20230910100048.jpg", "mask": "mint/ground_truth/ZW/mint_0101_NG_ZW_C1_20230910100048.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0102_NG_ZW_C1_20230910100056.jpg", "mask": "mint/ground_truth/ZW/mint_0102_NG_ZW_C1_20230910100056.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0105_NG_ZW_C1_20230910100120.jpg", "mask": "mint/ground_truth/ZW/mint_0105_NG_ZW_C1_20230910100120.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0106_NG_ZW_C1_20230910100131.jpg", "mask": "mint/ground_truth/ZW/mint_0106_NG_ZW_C1_20230910100131.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0107_NG_ZW_C1_20230910100141.jpg", "mask": "mint/ground_truth/ZW/mint_0107_NG_ZW_C1_20230910100141.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0110_NG_ZW_C1_20230910100209.jpg", "mask": "mint/ground_truth/ZW/mint_0110_NG_ZW_C1_20230910100209.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0112_NG_ZW_C1_20230910100227.jpg", "mask": "mint/ground_truth/ZW/mint_0112_NG_ZW_C1_20230910100227.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0113_NG_ZW_C1_20230910100235.jpg", "mask": "mint/ground_truth/ZW/mint_0113_NG_ZW_C1_20230910100235.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0118_NG_ZW_C1_20230910100329.jpg", "mask": "mint/ground_truth/ZW/mint_0118_NG_ZW_C1_20230910100329.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0123_NG_ZW_C1_20230910100416.jpg", "mask": "mint/ground_truth/ZW/mint_0123_NG_ZW_C1_20230910100416.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0137_NG_ZW_C1_20230910100616.jpg", "mask": "mint/ground_truth/ZW/mint_0137_NG_ZW_C1_20230910100616.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0139_NG_ZW_C1_20230910100631.jpg", "mask": "mint/ground_truth/ZW/mint_0139_NG_ZW_C1_20230910100631.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0146_NG_ZW_C1_20230910100732.jpg", "mask": "mint/ground_truth/ZW/mint_0146_NG_ZW_C1_20230910100732.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0147_NG_ZW_C1_20230910100740.jpg", "mask": "mint/ground_truth/ZW/mint_0147_NG_ZW_C1_20230910100740.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0150_NG_ZW_C1_20230910100803.jpg", "mask": "mint/ground_truth/ZW/mint_0150_NG_ZW_C1_20230910100803.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0151_NG_ZW_C1_20230910100809.jpg", "mask": "mint/ground_truth/ZW/mint_0151_NG_ZW_C1_20230910100809.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0152_NG_ZW_C1_20230910100815.jpg", "mask": "mint/ground_truth/ZW/mint_0152_NG_ZW_C1_20230910100815.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0156_NG_ZW_C1_20230910100850.jpg", "mask": "mint/ground_truth/ZW/mint_0156_NG_ZW_C1_20230910100850.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0158_NG_ZW_C1_20230910100905.jpg", "mask": "mint/ground_truth/ZW/mint_0158_NG_ZW_C1_20230910100905.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0159_NG_ZW_C1_20230910100921.jpg", "mask": "mint/ground_truth/ZW/mint_0159_NG_ZW_C1_20230910100921.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0165_NG_ZW_C1_20230910101013.jpg", "mask": "mint/ground_truth/ZW/mint_0165_NG_ZW_C1_20230910101013.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0166_NG_ZW_C1_20230910101019.jpg", "mask": "mint/ground_truth/ZW/mint_0166_NG_ZW_C1_20230910101019.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0168_NG_ZW_C1_20230910101037.jpg", "mask": "mint/ground_truth/ZW/mint_0168_NG_ZW_C1_20230910101037.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0171_NG_ZW_C1_20230910101059.jpg", "mask": "mint/ground_truth/ZW/mint_0171_NG_ZW_C1_20230910101059.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0174_NG_ZW_C1_20230910101122.jpg", "mask": "mint/ground_truth/ZW/mint_0174_NG_ZW_C1_20230910101122.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0175_NG_ZW_C1_20230910134414.jpg", "mask": "mint/ground_truth/ZW/mint_0175_NG_ZW_C1_20230910134414.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0176_NG_ZW_C1_20230910134426.jpg", "mask": "mint/ground_truth/ZW/mint_0176_NG_ZW_C1_20230910134426.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0177_NG_ZW_C1_20230910134438.jpg", "mask": "mint/ground_truth/ZW/mint_0177_NG_ZW_C1_20230910134438.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0178_NG_ZW_C1_20230910134450.jpg", "mask": "mint/ground_truth/ZW/mint_0178_NG_ZW_C1_20230910134450.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0179_NG_ZW_C1_20230910134459.jpg", "mask": "mint/ground_truth/ZW/mint_0179_NG_ZW_C1_20230910134459.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0181_NG_ZW_C1_20230910134518.jpg", "mask": "mint/ground_truth/ZW/mint_0181_NG_ZW_C1_20230910134518.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0183_NG_ZW_C1_20230910134534.jpg", "mask": "mint/ground_truth/ZW/mint_0183_NG_ZW_C1_20230910134534.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0184_NG_ZW_C1_20230910134559.jpg", "mask": "mint/ground_truth/ZW/mint_0184_NG_ZW_C1_20230910134559.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0185_NG_ZW_C1_20230910134608.jpg", "mask": "mint/ground_truth/ZW/mint_0185_NG_ZW_C1_20230910134608.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0186_NG_ZW_C1_20230910134621.jpg", "mask": "mint/ground_truth/ZW/mint_0186_NG_ZW_C1_20230910134621.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0187_NG_ZW_C1_20230910134632.jpg", "mask": "mint/ground_truth/ZW/mint_0187_NG_ZW_C1_20230910134632.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0188_NG_ZW_C1_20230910134647.jpg", "mask": "mint/ground_truth/ZW/mint_0188_NG_ZW_C1_20230910134647.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0190_NG_ZW_C1_20230910134723.jpg", "mask": "mint/ground_truth/ZW/mint_0190_NG_ZW_C1_20230910134723.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0191_NG_ZW_C1_20230910134736.jpg", "mask": "mint/ground_truth/ZW/mint_0191_NG_ZW_C1_20230910134736.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0192_NG_ZW_C1_20230910134745.jpg", "mask": "mint/ground_truth/ZW/mint_0192_NG_ZW_C1_20230910134745.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0194_NG_ZW_C1_20230910134802.jpg", "mask": "mint/ground_truth/ZW/mint_0194_NG_ZW_C1_20230910134802.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0195_NG_ZW_C1_20230910134812.jpg", "mask": "mint/ground_truth/ZW/mint_0195_NG_ZW_C1_20230910134812.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0196_NG_ZW_C1_20230910134820.jpg", "mask": "mint/ground_truth/ZW/mint_0196_NG_ZW_C1_20230910134820.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0197_NG_ZW_C1_20230910134827.jpg", "mask": "mint/ground_truth/ZW/mint_0197_NG_ZW_C1_20230910134827.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0198_NG_ZW_C1_20230910134835.jpg", "mask": "mint/ground_truth/ZW/mint_0198_NG_ZW_C1_20230910134835.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0200_NG_ZW_C1_20230910134853.jpg", "mask": "mint/ground_truth/ZW/mint_0200_NG_ZW_C1_20230910134853.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0201_NG_ZW_C1_20230910134900.jpg", "mask": "mint/ground_truth/ZW/mint_0201_NG_ZW_C1_20230910134900.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0202_NG_ZW_C1_20230910134908.jpg", "mask": "mint/ground_truth/ZW/mint_0202_NG_ZW_C1_20230910134908.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0204_NG_ZW_C1_20230910134922.jpg", "mask": "mint/ground_truth/ZW/mint_0204_NG_ZW_C1_20230910134922.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0206_NG_ZW_C1_20230910134935.jpg", "mask": "mint/ground_truth/ZW/mint_0206_NG_ZW_C1_20230910134935.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0208_NG_ZW_C1_20230910134950.jpg", "mask": "mint/ground_truth/ZW/mint_0208_NG_ZW_C1_20230910134950.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0209_NG_ZW_C1_20230910134956.jpg", "mask": "mint/ground_truth/ZW/mint_0209_NG_ZW_C1_20230910134956.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0211_NG_ZW_C1_20230910135025.jpg", "mask": "mint/ground_truth/ZW/mint_0211_NG_ZW_C1_20230910135025.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_0212_NG_ZW_C1_20230910135032.jpg", "mask": "mint/ground_truth/ZW/mint_0212_NG_ZW_C1_20230910135032.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_1209_NG_ZW_C1_20230908145826.jpg", "mask": "mint/ground_truth/ZW/mint_1209_NG_ZW_C1_20230908145826.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_1250_NG_ZW_C1_20230908152848.jpg", "mask": "mint/ground_truth/ZW/mint_1250_NG_ZW_C1_20230908152848.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_1257_NG_ZW_C1_20230908152941.jpg", "mask": "mint/ground_truth/ZW/mint_1257_NG_ZW_C1_20230908152941.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_1263_NG_ZW_C1_20230908153105.jpg", "mask": "mint/ground_truth/ZW/mint_1263_NG_ZW_C1_20230908153105.png", "clsname": "mint", "label": 1, "label_name": "ZW"}
+{"filename": "mint/test/ZW/mint_1266_NG_ZW_C1_20230908153128.jpg", "mask": "mint/ground_truth/ZW/mint_1266_NG_ZW_C1_20230908153128.png", "clsname": "mint", "label": 1, "label_name": "ZW"}

@@ -1,0 +1,76 @@
+synthesizer:
+    name: ImageBlendingSynthesizer
+    kwargs:
+      p: 0.5
+      transparency_range: [0.2, 1.0]
+      perlin_scale: 6
+      min_perlin_scale: 0
+      anomaly_source: data/DTD
+
+structure:
+  - name: block1
+    layers:
+      - idx: layer2
+        planes: 256
+    stride: 8
+
+  - name: block2
+    layers:
+      - idx: layer3
+        planes: 512
+    stride: 16
+
+net:
+  - name: backbone
+    type: models.backbones.Backbone
+    frozen: True
+    kwargs:
+      backbone: wide_resnet50_2
+
+  - name: afs
+    type: models.afs.AFS
+    frozen: True
+    prev: backbone
+    kwargs:
+      init_bsn: 64
+
+
+  - name: recon
+    type: models.recon.ReconstructionLayer
+    prev: afs
+    kwargs:
+      num_res_blocks: 2
+      hide_channels_ratio: 0.5
+      channel_mult: [1,2,4]
+      attention_mult: [2,4]
+
+  - name: rrs
+    type: models.rrs.RRS
+    prev: recon
+    kwargs:
+      modes: [max,mean]
+      mode_numbers: [256, 256]
+      num_residual_layers: 2
+      stop_grad: False
+
+
+trainer:
+  max_epoch: 150
+  eval_per_steps: 100
+  log_per_steps: 10
+  optimizer:
+    type: Adam
+    kwargs:
+      lr: 0.0001
+      betas: [0.9, 0.999]
+
+
+criterion:
+  - name: SegmentCrossEntropyLoss
+    type: SegmentCrossEntropyLoss
+    kwargs:
+      weight: 1.0
+  - name: FeatureMSELoss
+    type: FeatureMSELoss
+    kwargs:
+      weight: 1.0

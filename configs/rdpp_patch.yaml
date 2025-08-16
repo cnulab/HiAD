@@ -1,0 +1,18 @@
+epoch: 50
+proj_lr: 0.001
+distill_lr: 0.005
+weight_proj: 0.2
+eval_per_steps: 100
+log_per_steps: 10
+backbone_name: wideresnet50
+layers_to_extract_from: ['layer3']
+
+
+synthesizer:
+    name: ImageBlendingSynthesizer
+    kwargs:
+      p: 1.0
+      transparency_range: [0.2, 0.5]
+      perlin_scale: 3
+      min_perlin_scale: 0
+      anomaly_source: data/DTD

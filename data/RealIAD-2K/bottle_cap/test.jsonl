@@ -1,0 +1,380 @@
+{"filename": "bottle_cap/test/AK/bottle_cap_0003_NG_AK_C1_20230926102725.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0003_NG_AK_C1_20230926102725.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0016_NG_AK_C1_20230926104923.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0016_NG_AK_C1_20230926104923.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0022_NG_AK_C1_20230926105104.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0022_NG_AK_C1_20230926105104.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0026_NG_AK_C1_20230926105249.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0026_NG_AK_C1_20230926105249.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0034_NG_AK_C1_20230926105452.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0034_NG_AK_C1_20230926105452.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0039_NG_AK_C1_20230926105606.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0039_NG_AK_C1_20230926105606.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0040_NG_AK_C1_20230926105635.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0040_NG_AK_C1_20230926105635.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0046_NG_AK_C1_20230926105746.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0046_NG_AK_C1_20230926105746.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0050_NG_AK_C1_20230926105843.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0050_NG_AK_C1_20230926105843.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0057_NG_AK_C1_20230926110035.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0057_NG_AK_C1_20230926110035.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0058_NG_AK_C1_20230926110046.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0058_NG_AK_C1_20230926110046.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0060_NG_AK_C1_20230926110117.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0060_NG_AK_C1_20230926110117.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0063_NG_AK_C1_20230926110202.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0063_NG_AK_C1_20230926110202.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0064_NG_AK_C1_20230926110214.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0064_NG_AK_C1_20230926110214.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0067_NG_AK_C1_20230926110257.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0067_NG_AK_C1_20230926110257.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0071_NG_AK_C1_20230926110348.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0071_NG_AK_C1_20230926110348.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0076_NG_AK_C1_20230926110455.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0076_NG_AK_C1_20230926110455.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0080_NG_AK_C1_20230926110550.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0080_NG_AK_C1_20230926110550.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0082_NG_AK_C1_20230926110615.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0082_NG_AK_C1_20230926110615.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0084_NG_AK_C1_20230926110638.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0084_NG_AK_C1_20230926110638.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0088_NG_AK_C1_20230926110728.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0088_NG_AK_C1_20230926110728.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0092_NG_AK_C1_20230926110841.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0092_NG_AK_C1_20230926110841.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0094_NG_AK_C1_20230926110905.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0094_NG_AK_C1_20230926110905.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0106_NG_AK_C1_20230926111236.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0106_NG_AK_C1_20230926111236.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0108_NG_AK_C1_20230926111306.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0108_NG_AK_C1_20230926111306.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0110_NG_AK_C1_20230926111419.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0110_NG_AK_C1_20230926111419.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0111_NG_AK_C1_20230926111432.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0111_NG_AK_C1_20230926111432.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0115_NG_AK_C1_20230926111528.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0115_NG_AK_C1_20230926111528.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0116_NG_AK_C1_20230926111539.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0116_NG_AK_C1_20230926111539.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0120_NG_AK_C1_20230926111637.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0120_NG_AK_C1_20230926111637.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0122_NG_AK_C1_20230926111700.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0122_NG_AK_C1_20230926111700.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0123_NG_AK_C1_20230926111716.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0123_NG_AK_C1_20230926111716.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0124_NG_AK_C1_20230926111732.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0124_NG_AK_C1_20230926111732.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/AK/bottle_cap_0125_NG_AK_C1_20230926111741.jpg", "mask": "bottle_cap/ground_truth/AK/bottle_cap_0125_NG_AK_C1_20230926111741.png", "clsname": "bottle_cap", "label": 1, "label_name": "AK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0006_NG_AK_C1_20230926103343.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0014_NG_AK_C1_20230926104854.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0015_NG_AK_C1_20230926104907.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0028_NG_AK_C1_20230926105322.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0031_NG_AK_C1_20230926105409.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0036_NG_AK_C1_20230926105516.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0051_NG_AK_C1_20230926105904.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0052_NG_AK_C1_20230926105922.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0072_NG_AK_C1_20230926110404.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_NG_AK_C1_20230926110445.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0078_NG_AK_C1_20230926110526.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0095_NG_AK_C1_20230926110955.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0099_NG_AK_C1_20230926111100.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0003_NG_QS_C1_20230926090524.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0004_NG_QS_C1_20230926090545.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0006_NG_QS_C1_20230926090613.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0007_NG_QS_C1_20230926090629.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0008_NG_QS_C1_20230926090641.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0014_NG_QS_C1_20230926090806.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0016_NG_QS_C1_20230926090837.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0017_NG_QS_C1_20230926090850.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0020_NG_QS_C1_20230926090935.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0026_NG_QS_C1_20230926091510.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0027_NG_QS_C1_20230926091526.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0029_NG_QS_C1_20230926091552.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0032_NG_QS_C1_20230926091635.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0033_NG_QS_C1_20230926091648.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0036_NG_QS_C1_20230926091731.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0038_NG_QS_C1_20230926091800.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0042_NG_QS_C1_20230926091906.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0045_NG_QS_C1_20230926091946.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0051_NG_QS_C1_20230926092118.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0054_NG_QS_C1_20230926092157.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0056_NG_QS_C1_20230926092234.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0057_NG_QS_C1_20230926092246.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0061_NG_QS_C1_20230926092341.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0062_NG_QS_C1_20230926092353.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0068_NG_QS_C1_20230926092521.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0069_NG_QS_C1_20230926092539.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0073_NG_QS_C1_20230926092643.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_NG_QS_C1_20230926092712.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0077_NG_QS_C1_20230926092821.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0079_NG_QS_C1_20230926092850.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0080_NG_QS_C1_20230926092904.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0081_NG_QS_C1_20230926092917.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0085_NG_QS_C1_20230926093014.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0089_NG_QS_C1_20230926093114.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0091_NG_QS_C1_20230926093144.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0095_NG_QS_C1_20230926093250.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0099_NG_QS_C1_20230926093345.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0101_NG_QS_C1_20230926093440.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0104_NG_QS_C1_20230926093555.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0105_NG_QS_C1_20230926093606.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0109_NG_QS_C1_20230926093712.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0114_NG_QS_C1_20230926093825.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0116_NG_QS_C1_20230926093848.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0120_NG_QS_C1_20230926093953.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0121_NG_QS_C1_20230926094005.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0123_NG_QS_C1_20230926094037.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0124_NG_QS_C1_20230926094052.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0125_NG_QS_C1_20230926094112.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0126_NG_QS_C1_20230926094123.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0001_NG_ZW_C1_20230926112305.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0008_NG_ZW_C1_20230926112613.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0009_NG_ZW_C1_20230926112635.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0017_NG_ZW_C1_20230926112839.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0028_NG_ZW_C1_20230926113219.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0044_NG_ZW_C1_20230926113646.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0048_NG_ZW_C1_20230926113753.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0053_NG_ZW_C1_20230926113909.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0069_NG_ZW_C1_20230926130614.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_NG_ZW_C1_20230926130726.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0076_NG_ZW_C1_20230926130736.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0077_NG_ZW_C1_20230926130746.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0088_NG_ZW_C1_20230926131012.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0098_NG_ZW_C1_20230926131214.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0101_NG_ZW_C1_20230926131245.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0102_NG_ZW_C1_20230926131305.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0105_NG_ZW_C1_20230926131338.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0112_NG_ZW_C1_20230926131513.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0113_NG_ZW_C1_20230926131523.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0114_NG_ZW_C1_20230926131533.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0126_NG_ZW_C1_20230926131853.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0001_OK_C1_20230925164816.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0009_OK_C1_20230925165157.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0010_OK_C1_20230925165212.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0011_OK_C1_20230925165226.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0014_OK_C1_20230925165308.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0015_OK_C1_20230925165320.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0017_OK_C1_20230925165348.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0018_OK_C1_20230925165403.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0019_OK_C1_20230925165420.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0020_OK_C1_20230925165433.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0025_OK_C1_20230925165553.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0028_OK_C1_20230925165633.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0034_OK_C1_20230925165754.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0036_OK_C1_20230925165818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0037_OK_C1_20230925165832.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0038_OK_C1_20230925165852.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0046_OK_C1_20230925170046.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0050_OK_C1_20230925170146.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0051_OK_C1_20230925170203.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0056_OK_C1_20230925170319.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0057_OK_C1_20230925170335.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0062_OK_C1_20230925170444.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0063_OK_C1_20230925170457.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0066_OK_C1_20230925170545.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0067_OK_C1_20230925170600.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0071_OK_C1_20230925170655.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0073_OK_C1_20230925170723.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0074_OK_C1_20230925170735.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0075_OK_C1_20230925170748.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0076_OK_C1_20230925170801.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0083_OK_C1_20230925170935.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0084_OK_C1_20230925170951.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0087_OK_C1_20230925171027.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0088_OK_C1_20230925171052.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0090_OK_C1_20230925171120.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0094_OK_C1_20230925171232.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0095_OK_C1_20230925171246.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0101_OK_C1_20230925171410.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0103_OK_C1_20230925171439.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0104_OK_C1_20230925171453.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0105_OK_C1_20230925171508.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0106_OK_C1_20230925171522.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0107_OK_C1_20230925171535.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0108_OK_C1_20230925171548.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0109_OK_C1_20230925171602.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0114_OK_C1_20230925171715.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0115_OK_C1_20230925171731.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0116_OK_C1_20230925171744.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0117_OK_C1_20230925171758.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0118_OK_C1_20230925171812.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0119_OK_C1_20230925171824.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0120_OK_C1_20230925171836.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0124_OK_C1_20230925171933.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0125_OK_C1_20230925171948.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0127_OK_C1_20230925172017.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0129_OK_C1_20230925172050.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0132_OK_C1_20230925172133.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0135_OK_C1_20230925172214.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0136_OK_C1_20230925172227.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0138_OK_C1_20230925172303.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0143_OK_C1_20230925172411.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0146_OK_C1_20230925172449.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0148_OK_C1_20230925172516.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0149_OK_C1_20230925172529.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0150_OK_C1_20230925172545.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0151_OK_C1_20230925172601.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0155_OK_C1_20230925172650.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0158_OK_C1_20230925172729.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0159_OK_C1_20230925172745.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0161_OK_C1_20230925172818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0165_OK_C1_20230925172911.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0167_OK_C1_20230925172938.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0171_OK_C1_20230925173047.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0172_OK_C1_20230925173100.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0173_OK_C1_20230925173117.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0174_OK_C1_20230925173130.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0176_OK_C1_20230925173205.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0177_OK_C1_20230925173219.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0180_OK_C1_20230925173307.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0185_OK_C1_20230925173429.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0186_OK_C1_20230925173442.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0191_OK_C1_20230925173600.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0193_OK_C1_20230925173629.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0195_OK_C1_20230925173703.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0198_OK_C1_20230925173752.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0199_OK_C1_20230925173807.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0200_OK_C1_20230925173822.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0201_OK_C1_20230925173837.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0202_OK_C1_20230925173914.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0205_OK_C1_20230925174001.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0206_OK_C1_20230925174012.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0210_OK_C1_20230925174059.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0215_OK_C1_20230925174221.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0217_OK_C1_20230925174246.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0219_OK_C1_20230925174314.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0220_OK_C1_20230925174328.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0222_OK_C1_20230925174412.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0224_OK_C1_20230925174435.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0227_OK_C1_20230925174515.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0228_OK_C1_20230925174527.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0231_OK_C1_20230925174606.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0234_OK_C1_20230925174640.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0238_OK_C1_20230925174750.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0239_OK_C1_20230925174805.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0246_OK_C1_20230925175001.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0248_OK_C1_20230925175030.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0249_OK_C1_20230925175045.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0251_OK_C1_20230925175111.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0252_OK_C1_20230925183518.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0253_OK_C1_20230925183701.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0256_OK_C1_20230925183744.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0258_OK_C1_20230925183818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0265_OK_C1_20230925184006.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0266_OK_C1_20230925184023.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0269_OK_C1_20230925184112.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0274_OK_C1_20230925184248.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0275_OK_C1_20230925184300.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0277_OK_C1_20230925184331.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0281_OK_C1_20230925184443.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0283_OK_C1_20230925184503.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0285_OK_C1_20230925184521.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0287_OK_C1_20230925184538.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0294_OK_C1_20230925184648.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0296_OK_C1_20230925184711.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0297_OK_C1_20230925184719.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0299_OK_C1_20230925184739.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0302_OK_C1_20230925184808.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0304_OK_C1_20230925184826.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0306_OK_C1_20230925184847.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0309_OK_C1_20230925184910.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0312_OK_C1_20230925184934.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0314_OK_C1_20230925184950.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0315_OK_C1_20230925185002.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0316_OK_C1_20230925185012.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0317_OK_C1_20230925185018.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0323_OK_C1_20230925185109.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0324_OK_C1_20230925185116.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0328_OK_C1_20230925185159.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0333_OK_C1_20230925185356.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0334_OK_C1_20230925185419.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0336_OK_C1_20230925185447.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0341_OK_C1_20230925185613.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0342_OK_C1_20230925185622.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0343_OK_C1_20230925185637.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0345_OK_C1_20230925185704.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0346_OK_C1_20230925185715.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0353_OK_C1_20230925185819.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0354_OK_C1_20230925185829.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0355_OK_C1_20230925185837.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0356_OK_C1_20230925185846.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0357_OK_C1_20230925185906.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0359_OK_C1_20230925185934.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0360_OK_C1_20230925190011.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0362_OK_C1_20230925190031.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0367_OK_C1_20230925190141.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0368_OK_C1_20230925190155.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0371_OK_C1_20230925190231.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0373_OK_C1_20230925190252.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0374_OK_C1_20230925190307.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0375_OK_C1_20230925190318.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0376_OK_C1_20230925190329.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0378_OK_C1_20230925190351.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0379_OK_C1_20230925190407.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0380_OK_C1_20230925190417.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0381_OK_C1_20230925190438.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0383_OK_C1_20230925190458.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0385_OK_C1_20230925190521.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0387_OK_C1_20230925190551.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0391_OK_C1_20230925190643.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0392_OK_C1_20230925190653.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0394_OK_C1_20230925190740.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0396_OK_C1_20230925190801.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0397_OK_C1_20230925190812.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0399_OK_C1_20230925190835.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0402_OK_C1_20230925190911.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0405_OK_C1_20230925191006.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0407_OK_C1_20230925191029.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0408_OK_C1_20230925191042.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0409_OK_C1_20230925191052.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0414_OK_C1_20230925191152.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0415_OK_C1_20230925191204.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0418_OK_C1_20230925191236.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0422_OK_C1_20230925191313.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0424_OK_C1_20230925191331.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0430_OK_C1_20230925191422.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0432_OK_C1_20230925191442.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0435_OK_C1_20230925191516.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0438_OK_C1_20230925191541.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0442_OK_C1_20230925191616.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0446_OK_C1_20230925191651.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0447_OK_C1_20230925191659.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0448_OK_C1_20230925191708.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0452_OK_C1_20230925191748.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0455_OK_C1_20230925191818.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0456_OK_C1_20230925191828.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0457_OK_C1_20230925191838.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0458_OK_C1_20230925191850.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0460_OK_C1_20230925191908.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0466_OK_C1_20230925192011.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0467_OK_C1_20230925192020.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0468_OK_C1_20230925192030.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0470_OK_C1_20230925192048.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0472_OK_C1_20230925192115.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0474_OK_C1_20230925192133.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0475_OK_C1_20230925192140.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0477_OK_C1_20230925192200.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0481_OK_C1_20230925192253.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0483_OK_C1_20230925192325.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0484_OK_C1_20230925192338.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0486_OK_C1_20230925192411.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0489_OK_C1_20230925192459.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0493_OK_C1_20230925192551.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0495_OK_C1_20230925192608.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0497_OK_C1_20230925192631.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0498_OK_C1_20230925192643.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/OK/bottle_cap_0500_OK_C1_20230925192702.jpg", "clsname": "bottle_cap", "label": 0, "label_name": "OK"}
+{"filename": "bottle_cap/test/QS/bottle_cap_0112_NG_QS_C1_20230926093756.jpg", "mask": "bottle_cap/ground_truth/QS/bottle_cap_0112_NG_QS_C1_20230926093756.png", "clsname": "bottle_cap", "label": 1, "label_name": "QS"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0002_NG_ZW_C1_20230926112430.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0002_NG_ZW_C1_20230926112430.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0007_NG_ZW_C1_20230926112559.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0007_NG_ZW_C1_20230926112559.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0011_NG_ZW_C1_20230926112704.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0011_NG_ZW_C1_20230926112704.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0020_NG_ZW_C1_20230926112935.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0020_NG_ZW_C1_20230926112935.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0025_NG_ZW_C1_20230926113103.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0025_NG_ZW_C1_20230926113103.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0026_NG_ZW_C1_20230926113117.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0026_NG_ZW_C1_20230926113117.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0036_NG_ZW_C1_20230926113437.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0036_NG_ZW_C1_20230926113437.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0042_NG_ZW_C1_20230926113611.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0042_NG_ZW_C1_20230926113611.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0043_NG_ZW_C1_20230926113629.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0043_NG_ZW_C1_20230926113629.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0047_NG_ZW_C1_20230926113737.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0047_NG_ZW_C1_20230926113737.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0049_NG_ZW_C1_20230926113808.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0049_NG_ZW_C1_20230926113808.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0052_NG_ZW_C1_20230926113849.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0052_NG_ZW_C1_20230926113849.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0054_NG_ZW_C1_20230926113922.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0054_NG_ZW_C1_20230926113922.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0055_NG_ZW_C1_20230926113934.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0055_NG_ZW_C1_20230926113934.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0056_NG_ZW_C1_20230926113949.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0056_NG_ZW_C1_20230926113949.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0057_NG_ZW_C1_20230926130306.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0057_NG_ZW_C1_20230926130306.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0060_NG_ZW_C1_20230926130414.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0060_NG_ZW_C1_20230926130414.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0063_NG_ZW_C1_20230926130452.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0063_NG_ZW_C1_20230926130452.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0064_NG_ZW_C1_20230926130507.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0064_NG_ZW_C1_20230926130507.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0066_NG_ZW_C1_20230926130538.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0066_NG_ZW_C1_20230926130538.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0067_NG_ZW_C1_20230926130545.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0067_NG_ZW_C1_20230926130545.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0070_NG_ZW_C1_20230926130629.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0070_NG_ZW_C1_20230926130629.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0071_NG_ZW_C1_20230926130639.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0071_NG_ZW_C1_20230926130639.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0073_NG_ZW_C1_20230926130702.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0073_NG_ZW_C1_20230926130702.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0078_NG_ZW_C1_20230926130801.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0078_NG_ZW_C1_20230926130801.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0079_NG_ZW_C1_20230926130811.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0079_NG_ZW_C1_20230926130811.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0081_NG_ZW_C1_20230926130841.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0081_NG_ZW_C1_20230926130841.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0082_NG_ZW_C1_20230926130851.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0082_NG_ZW_C1_20230926130851.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0084_NG_ZW_C1_20230926130914.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0084_NG_ZW_C1_20230926130914.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0085_NG_ZW_C1_20230926130933.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0085_NG_ZW_C1_20230926130933.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0087_NG_ZW_C1_20230926130954.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0087_NG_ZW_C1_20230926130954.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0090_NG_ZW_C1_20230926131037.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0090_NG_ZW_C1_20230926131037.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0093_NG_ZW_C1_20230926131117.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0093_NG_ZW_C1_20230926131117.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0095_NG_ZW_C1_20230926131137.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0095_NG_ZW_C1_20230926131137.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0099_NG_ZW_C1_20230926131223.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0099_NG_ZW_C1_20230926131223.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0106_NG_ZW_C1_20230926131348.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0106_NG_ZW_C1_20230926131348.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0108_NG_ZW_C1_20230926131420.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0108_NG_ZW_C1_20230926131420.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0115_NG_ZW_C1_20230926131605.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0115_NG_ZW_C1_20230926131605.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0116_NG_ZW_C1_20230926131624.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0116_NG_ZW_C1_20230926131624.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0119_NG_ZW_C1_20230926131654.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0119_NG_ZW_C1_20230926131654.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_0123_NG_ZW_C1_20230926131742.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_0123_NG_ZW_C1_20230926131742.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1030_NG_ZW_C1_20230925165701.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1030_NG_ZW_C1_20230925165701.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1032_NG_ZW_C1_20230925165727.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1032_NG_ZW_C1_20230925165727.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1121_NG_ZW_C1_20230925171851.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1121_NG_ZW_C1_20230925171851.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1288_NG_ZW_C1_20230925184549.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1288_NG_ZW_C1_20230925184549.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
+{"filename": "bottle_cap/test/ZW/bottle_cap_1434_NG_ZW_C1_20230925191505.jpg", "mask": "bottle_cap/ground_truth/ZW/bottle_cap_1434_NG_ZW_C1_20230925191505.png", "clsname": "bottle_cap", "label": 1, "label_name": "ZW"}
