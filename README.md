@@ -2,7 +2,7 @@
   
   
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href=''><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
+  <a href='https://arxiv.org/abs/2508.12931'><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
   <a href='https://pypi.org/project/hiad/'><img src='https://img.shields.io/badge/Pip-Install-green'></a>&ensp; 
   <a href='https://huggingface.co/XimiaoZhang'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp;
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-Apache2.0-yellow'></a>&ensp; 
@@ -20,7 +20,7 @@ task, established a comprehensive evaluation benchmark, and proposed HiAD, a pra
 efficient high-resolution anomaly detection framework. This framework can accurately detect subtle 
 anomalies in images ranging from 1K to 4K resolution, while ensuring fast inference speeds on 
 mainstream consumer-grade GPUs. If you are a researcher in this field, 
-we invite you to read our [paper]() for more technical details.
+we invite you to read our [paper](https://arxiv.org/abs/2508.12931) for more technical details.
   
 <div align="center">  
     
@@ -84,8 +84,16 @@ If you find it useful, consider giving us a ⭐, we’d really appreciate it!
   
 ## 📌 Citation  
 ```
-coming soon.
+@inproceedings{zhang2025towards,
+      title={Towards High-Resolution Industrial Image Anomaly Detection}, 
+      author={Ximiao Zhang, Min Xu, and Xiuzhuang Zhou},
+      year={2025},
+      eprint={2508.12931},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
+
 
 
 
