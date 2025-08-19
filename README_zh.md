@@ -2,7 +2,7 @@
   
   
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href=''><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
+  <a href='https://arxiv.org/abs/2508.12931'><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
   <a href='https://pypi.org/project/hiad/'><img src='https://img.shields.io/badge/pip-Install-green'></a>&ensp; 
   <a href='https://huggingface.co/XimiaoZhang'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp;
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-Apache2.0-yellow'></a>&ensp; 
@@ -14,7 +14,7 @@
 当前的异常检测方法主要针对低分辨率图像设计，然而在现代工业生产中，异常往往表现为细微且难以察觉的缺陷，在低分辨率条件下难以有效检测。
 针对**大图小缺陷**的行业痛点，我们开展了一项系统性研究，专注于高分辨率工业图像的异常检测。我们深入分析了该任务所面临的关键挑战，
 构建了全面的评估基准，并提出了一个实用且高效的高分辨率异常检测框架——HiAD。该框架可在1K至4K分辨率图像中精准识别微小异常，同时具备良好的推理速度，
-适配当前主流的消费级GPU平台。若您从事相关研究，欢迎查阅我们的[论文]()，获取更多技术细节。
+适配当前主流的消费级GPU平台。若您从事相关研究，欢迎查阅我们的[论文](https://arxiv.org/abs/2508.12931)，获取更多技术细节。
   
 <div align="center">  
     
@@ -79,8 +79,16 @@ python runs/run_patchcore.py --data_root data/MVTec-2K --category bottle --gpus 
   
 ## 📌 引用  
 ```
-coming soon.
+@inproceedings{zhang2025towards,
+      title={Towards High-Resolution Industrial Image Anomaly Detection}, 
+      author={Ximiao Zhang, Min Xu, and Xiuzhuang Zhou},
+      year={2025},
+      eprint={2508.12931},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
+
 
 
 
