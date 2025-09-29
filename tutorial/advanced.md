@@ -3,7 +3,7 @@
 This tutorial will further introduce the advanced settings of HiAD to help you understand more of its features.  
   
 ### Detectors
-We have integrated seven anomaly detection methods as detectors in HiAD, which are:  
+We have integrated nine anomaly detection methods as detectors in HiAD, which are:  
 
 &nbsp;&nbsp;&nbsp;&nbsp;[PatchCore](https://github.com/amazon-science/patchcore-inspection)  
 &nbsp;&nbsp;&nbsp;&nbsp;[PaDiM](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)  
@@ -12,7 +12,9 @@ We have integrated seven anomaly detection methods as detectors in HiAD, which a
 &nbsp;&nbsp;&nbsp;&nbsp;[RealNet](https://github.com/cnulab/RealNet)  
 &nbsp;&nbsp;&nbsp;&nbsp;[RD++](https://github.com/tientrandinh/Revisiting-Reverse-Distillation)  
 &nbsp;&nbsp;&nbsp;&nbsp;[DeSTSeg](https://github.com/apple/ml-destseg)  
-
+&nbsp;&nbsp;&nbsp;&nbsp;[Dinomaly](https://github.com/guojiajeremy/Dinomaly)  
+&nbsp;&nbsp;&nbsp;&nbsp;[INP-Former](https://github.com/luow23/INP-Former)   
+  
 They are located in the `hiad.detectors` package and can be imported using the following command:  
 ```
 from hiad.detectors import HRPatchCore # PatchCore
@@ -357,6 +359,7 @@ from hiad.syn import ColorShiftSynthesizer         # Apply simple data augmentat
 ```
   
 If `val_config` is provided during training phase, the anomaly scores output by the `trainer` will be normalized to the range `[0, 1]`.  
+
 
 
 
