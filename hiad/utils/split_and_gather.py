@@ -164,7 +164,7 @@ class LRPatch:
         H_main, W_main = self.image.shape[:2]
         low_resolution_image = image[low_resolution_index]
         H_LOW, W_LOW = low_resolution_image.shape[:2]
-        low_resolution_image = cv2.resize(low_resolution_image, (H_main, W_main))
+        low_resolution_image = cv2.resize(low_resolution_image, (W_main, H_main))
 
         new_low_resolution_index = HRImageIndex( x = int((self.main_index.x - low_resolution_index.x) / W_LOW * W_main),
                                                  y = int((self.main_index.y - low_resolution_index.y) / H_LOW * H_main),
