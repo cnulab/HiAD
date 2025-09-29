@@ -6,3 +6,5 @@ from .hr_realnet import HRRealNet
 from .hr_destseg import HRDesTSeg
 from .hr_rdpp import HRRDPP
 from .hr_padim import HRPaDiM
+from .hr_dinomaly import HRDinomaly
+from .hr_inpformer import HRINPFormer
