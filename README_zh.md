@@ -23,6 +23,9 @@
 | <img src="assets/demo2K.gif" width="330"/> |  <img src="assets/demo4K.gif" width="330"/> |  
   
 </div>  
+
+## 更新日志  
+ - **[2025-09] 更新了基于DINOv3的[Dinomaly](runs/run_dinomaly.py)和[INP-Former](runs/run_inpformer.py).**
   
 ## 🔧 安装
   
@@ -88,6 +91,7 @@ python runs/run_patchcore.py --data_root data/MVTec-2K --category bottle --gpus 
       primaryClass={cs.CV}
 }
 ```
+
 
 
 
