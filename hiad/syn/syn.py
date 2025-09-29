@@ -126,7 +126,7 @@ class ImageBlendingSynthesizer(BaseAnomalySynthesizer):
                     break
             idx = np.random.choice(len(self.anomaly_files))
             anomaly_source_img = np.array(Image.open(self.anomaly_files[idx]).convert('RGB'))
-            anomaly_source_img = cv2.resize(anomaly_source_img, dsize=image.shape[:2])
+            anomaly_source_img = cv2.resize(anomaly_source_img, dsize=(image.shape[1], image.shape[0]))
 
             if iaa is not None:
                 anomaly_source_img = self.rand_augment()(image=anomaly_source_img).astype(np.float32)
@@ -340,4 +340,5 @@ class ColorShiftSynthesizer(BaseAnomalySynthesizer):
             if sample.label is None:
                 sample.label = 0
             return sample
+
 
