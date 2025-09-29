@@ -3,7 +3,7 @@
 本教程将进一步介绍关于HiAD的高级设置，帮助您了解HiAD的更多功能。
   
 ### 检测器
-我们在HiAD中集成了`7种`异常检测方法作为检测器，分别是：  
+我们在HiAD中集成了`9种`异常检测方法作为检测器，分别是：  
 
 &nbsp;&nbsp;&nbsp;&nbsp;[PatchCore](https://github.com/amazon-science/patchcore-inspection)  
 &nbsp;&nbsp;&nbsp;&nbsp;[PaDiM](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)  
@@ -12,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[RealNet](https://github.com/cnulab/RealNet)  
 &nbsp;&nbsp;&nbsp;&nbsp;[RD++](https://github.com/tientrandinh/Revisiting-Reverse-Distillation)  
 &nbsp;&nbsp;&nbsp;&nbsp;[DeSTSeg](https://github.com/apple/ml-destseg)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Dinomaly](https://github.com/guojiajeremy/Dinomaly)  
+&nbsp;&nbsp;&nbsp;&nbsp;[INP-Former](https://github.com/luow23/INP-Former)   
 
 它们位于`hiad.detectors`包，可以通过以下命令导入
 ```
@@ -341,6 +343,7 @@ from hiad.syn import ColorShiftSynthesizer         # 对图像块进行简单的
 ```
   
 若在训练过程中提供了`val_config`，则模型输出的异常分数将会被归一化到`[0,1]`之间。
+
 
 
 
