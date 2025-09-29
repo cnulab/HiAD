@@ -34,7 +34,7 @@ class BaseAnomalySynthesizer(ABC):
                 new_low_resolution_image = copy.deepcopy(low_resolution_image)
                 new_low_resolution_image[low_resolution_index.y: low_resolution_index.y + low_resolution_index.height,
                                          low_resolution_index.x: low_resolution_index.x + low_resolution_index.width, :] = \
-                    cv2.resize(dst_sample.image, (low_resolution_index.height, low_resolution_index.width))
+                    cv2.resize(dst_sample.image, (low_resolution_index.width, low_resolution_index.height))
 
                 if dst_sample.low_resolution_indexes is None:
                     dst_sample.low_resolution_indexes = []
@@ -340,3 +340,4 @@ class ColorShiftSynthesizer(BaseAnomalySynthesizer):
             if sample.label is None:
                 sample.label = 0
             return sample
+
