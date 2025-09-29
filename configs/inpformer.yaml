@@ -1,0 +1,19 @@
+encoder_name:  dinov3_vitb16
+  # DINOv2: [dinov2reg_vit_small_14, dinov2reg_vit_base_14, dinov2reg_vit_large_14]
+  # DINOv3: [dinov3_vits16, dinov3_vitb16, dinov3_vitl16]
+
+dinov3_pretrained_weight: ckpt/dinov3_vitb16_pretrain_lvd1689m-73cec8be.pth
+  # If you use DINOv3, please pass the pre-trained_weight_path by this variable.
+  # You can apply for the weights at the following URL:
+  #        https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/
+  #
+  # dinov3_vits16: dinov3_vits16_pretrain_lvd1689m-08c60483.pth
+  # dinov3_vitb16: dinov3_vitb16_pretrain_lvd1689m-73cec8be.pth
+  # dinov3_vitl16: dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth
+  #
+  # For DINOv2, `dinov3_pretrained_weight` will be ignored.
+
+inp_num: 6
+total_iters: 5000
+eval_per_steps: 500
+log_per_steps: 50
