@@ -31,7 +31,7 @@ we invite you to read our [paper](https://arxiv.org/abs/2508.12931) for more tec
 </div>  
   
 ##  News
- - **09.2025[Update]: Updated DINOv3-based [Dinomaly](runs/run_dinomaly.py) and [INP-Former](runs/run_inpformer.py).**
+ - **[09.2025]: Updated DINOv3-based [Dinomaly](runs/run_dinomaly.py) and [INP-Former](runs/run_inpformer.py).**
 ## 🔧 Installation
   
 ```
@@ -95,6 +95,7 @@ If you find it useful, consider giving us a ⭐, we’d really appreciate it!
       primaryClass={cs.CV}
 }
 ```
+
 
 
 
