@@ -74,7 +74,7 @@ Refer to [data/README](data/README.md) for dataset preparation.
 
 The experiment scripts are located in the [runs](runs) directory. Run them using the following command:  
 ```
-# taking PatchCore as an example
+# taking PatchCore as an example, for 2 GPUs
 python runs/run_patchcore.py --data_root data/MVTec-2K --category bottle --gpus 0,1
 ```  
   
@@ -95,6 +95,7 @@ If you find it useful, consider giving us a ⭐, we’d really appreciate it!
       primaryClass={cs.CV}
 }
 ```
+
 
 
 
