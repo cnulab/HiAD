@@ -8,8 +8,6 @@ import os
 from ..dinov1 import vision_transformer
 from ..dinov2.models import vision_transformer as vision_transformer_dinov2
 
-_WEIGHTS_DIR = "backbones/weights"
-os.makedirs(_WEIGHTS_DIR, exist_ok=True)
 
 def load(name):
 
@@ -77,6 +75,9 @@ def download_cached_file(url, check_hash=True, progress=True):
     else:
         parts = urlparse(url)
         filename = os.path.basename(parts.path)
+    
+    _WEIGHTS_DIR = "backbones/weights"
+    os.makedirs(_WEIGHTS_DIR, exist_ok=True)
     cached_file = os.path.join(_WEIGHTS_DIR, filename)
     if not os.path.exists(cached_file):
         hash_prefix = None
