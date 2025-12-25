@@ -10,6 +10,7 @@ import torch.nn.functional as F
 import os
 from PIL import Image
 from easydict import EasyDict
+import torch.multiprocessing as mp
 
 from hiad.task.utils import patch_embedding
 from hiad.utils.split_and_gather import HRSample, HRImage
@@ -28,6 +29,7 @@ class BaseTaskGenerator(ABC):
 
     def __init__(self, device = None):
         self.device = device
+        mp.set_start_method('spawn', force=True)
 
     @abstractmethod
     def create_tasks(self,
