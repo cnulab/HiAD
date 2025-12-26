@@ -201,12 +201,15 @@ def test_in_device( gpu_id,
         if len(test_samples) > 10 and (i + 1) % int(len(test_samples) * 0.1) == 0:
             logger.info(f'{int((i + 1) / int(len(test_samples) * 0.1) * 10)}% of data loaded')
 
+        sample.open()
+
         for task in task_in_device:
             task_name = task['name']
 
             if task_name.startswith('retrieve'):
                 if task_name not in test_data:
                     test_data[task_name] = []
+
                 paths_and_indexes = task['paths_and_indexes']
                 sample_map = {}
                 for path, index in paths_and_indexes:
@@ -214,7 +217,6 @@ def test_in_device( gpu_id,
                         sample_map[path] = []
                     sample_map[path].append(index)
                 if sample.get_image_path() in sample_map:
-                    sample.open()
                     indexes = sample_map[sample.get_image_path()]
                     for index in indexes:
                         data = sample[index.main_index]
@@ -222,18 +224,14 @@ def test_in_device( gpu_id,
                             for low_resolution_index in index.low_resolution_indexes:
                                 data.add_low_resolution_images(low_resolution_index, sample.image)
                         test_data[task_name].append([sample.get_image_path(), index, data])
-                    sample.close()
 
-            elif task_name=='thumbnail':
+            elif task_name == 'thumbnail':
                 if task_name not in test_data:
                     test_data[task_name] = []
-                sample.open()
                 test_data[task_name].append(sample.down_sampling_to_LR(task['thumbnail_size']))
-                sample.close()
             else:
                 if task_name not in test_data:
                     test_data[task_name] = {}
-                sample.open()
                 indexes = task['indexes']
                 for index in indexes:
                     if index not in test_data[task_name]:
@@ -243,7 +241,7 @@ def test_in_device( gpu_id,
                         for low_resolution_index in index.low_resolution_indexes:
                             data.add_low_resolution_images(low_resolution_index, sample.image)
                     test_data[task_name][index].append(data)
-                sample.close()
+        sample.close()
 
     logger.info(f'End loading data')
 
