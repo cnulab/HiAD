@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="hiad",
-    version="0.1.2",
+    version="0.2.0",
     description="high-resolution anomaly detection",
     author="cnulab",
     url="https://github.com/cnulab/HiAD",
@@ -27,3 +27,4 @@ setup(
 
 
 )
+
