@@ -17,3 +17,4 @@ FrEIA
 geomloss
 pandas
 grad_cam
+pyzmq
