@@ -43,7 +43,7 @@ class HRRDPP(BaseDetector):
         self.epoch = epoch
         self.proj_lr = proj_lr
         self.distill_lr = distill_lr
-        self.weight_proj =  weight_proj
+        self.weight_proj = weight_proj
         self.synthesizer = synthesizer
         self.log_per_steps = log_per_steps
         self.eval_per_steps = eval_per_steps
@@ -51,19 +51,20 @@ class HRRDPP(BaseDetector):
         self.layers_to_extract_from = layers_to_extract_from
         self.synthesizer = eval(self.synthesizer.name)(**self.synthesizer.kwargs)
 
-        self.encoder, self.bn = resnet._BACKBONES[self.backbone_name](pretrained=True,
-                                                                      layers_to_extract_from=self.layers_to_extract_from)
-        self.encoder = self.encoder.to(device)
-        self.bn = self.bn.to(device)
+        self.encoder, self.bn = resnet._BACKBONES[self.backbone_name](pretrained=True, layers_to_extract_from=self.layers_to_extract_from)
         self.encoder.eval()
-
         self.decoder = de_resnet._BACKBONES[self.backbone_name](pretrained=False, layers_to_extract_from=self.layers_to_extract_from)
-        self.decoder = self.decoder.to(device)
+        self.proj_layer = MultiProjectionLayer(base=64, layers_to_extract_from=self.layers_to_extract_from)
 
-        self.proj_layer = MultiProjectionLayer(base=64, layers_to_extract_from=self.layers_to_extract_from).to(device)
-
+        self.to_device(self.device)
         self.max_anomaly_score = None
         self.min_anomaly_score = None
+
+    def to_device(self, device):
+        self.encoder = self.encoder.to(device)
+        self.bn = self.bn.to(device)
+        self.decoder = self.decoder.to(device)
+        self.proj_layer = self.proj_layer.to(device)
 
     def create_dataset(self, patches: List[LRPatch], training: bool, task_name: str ):
         if not training:

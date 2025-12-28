@@ -44,8 +44,11 @@ class HRVitAD(BaseDetector):
         set_seed(self.seed)
 
         self.net = get_model(self.cfg.model)
-        self.net.to(self.device)
+        self.to_device(self.device)
         self.net.eval()
+
+    def to_device(self, device):
+        self.net = self.net.to(device)
 
     @torch.no_grad()
     def embedding(self, input_tensor: torch.Tensor ) -> List[torch.Tensor]:

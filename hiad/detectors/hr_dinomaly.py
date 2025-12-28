@@ -91,25 +91,27 @@ class HRDinomaly(BaseDetector):
                             feat_size= self.feat_map_size,
                             fuse_layer_encoder=self.fuse_layer_encoder,
                             fuse_layer_decoder=self.fuse_layer_decoder)
-
-        self.model = self.model.to(device)
+        self.to_device(device)
         self.eval_per_steps = eval_per_steps
         self.log_per_steps = log_per_steps
+
         self.max_anomaly_score = None
         self.min_anomaly_score = None
+
 
     @torch.no_grad()
     def embedding(self, input_tensor: torch.Tensor ) -> List[torch.Tensor]:
         return self.model.encoder_image(input_tensor.to(self.device))
 
+    def to_device(self, device):
+        self.model = self.model.to(device)
 
     def train_step(self,
                    train_dataloader: DataLoader,
                    task_name: str,
                    checkpoint_path: str,
                    val_dataloader: DataLoader = None,
-                   evaluators = None,
-                   ) -> bool:
+                   evaluators = None) -> bool:
 
         trainable = nn.ModuleList([self.bottleneck, self.decoder])
 
@@ -238,3 +240,4 @@ class HRDinomaly(BaseDetector):
 
         image_scores = np.concatenate(image_scores, axis=0)
         return image_scores
+

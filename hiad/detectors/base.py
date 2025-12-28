@@ -53,6 +53,10 @@ class BaseDetector(ABC):
         raise NotImplementedError
 
     @abstractmethod
+    def to_device(self, device):
+        raise NotImplementedError
+
+    @abstractmethod
     def train_step(self,
                    train_dataloader: DataLoader,
                    task_name: str,
@@ -343,3 +347,9 @@ class BaseDetector(ABC):
         ) for pred in preds]
         preds = np.concatenate(preds, axis=0)
         return preds.reshape(N, -1).max(axis=1)
+
+
+
+
+
+

@@ -54,7 +54,6 @@ class HRRealNet(BaseDetector):
 
         self.synthesizer = eval(self.synthesizer.name)(**self.synthesizer.kwargs)
         self.backbone = Backbone(**self.net[0].kwargs)
-        self.backbone.to(self.device)
         self.backbone.eval()
 
         self.net = self.net[1:]
@@ -66,8 +65,12 @@ class HRRealNet(BaseDetector):
             self.net[0].kwargs = kwargs
 
         self.realnet = ModelHelper(self.net, self.device)
-        self.realnet.to(self.device)
+        self.to_device(self.device)
 
+
+    def to_device(self, device):
+        self.backbone = self.backbone.to(device)
+        self.realnet = self.realnet.to(device)
 
     def create_dataset(self, patches: List[LRPatch], training: bool, task_name: str ):
         if not training:
@@ -75,7 +78,6 @@ class HRRealNet(BaseDetector):
         else:
             dataset = AnomalySynDataset(patches=patches, synthesizer=self.synthesizer, training=training, task_name = task_name)
         return dataset
-
 
     @torch.no_grad()
     def embedding(self, input_tensor, train = False):

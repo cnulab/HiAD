@@ -51,9 +51,10 @@ class HRDesTSeg(BaseDetector):
         self.gamma = gamma
         self.DTD = DTD
         self.dest = dest
-        self.teacher_net = TeacherNet().to(self.device)
-        self.student_net = StudentNet().to(self.device)
-        self.segmentation_net = SegmentationNet(inplanes = 384).to(self.device)
+        self.teacher_net = TeacherNet()
+        self.student_net = StudentNet()
+        self.segmentation_net = SegmentationNet(inplanes = 384)
+        self.to_device(self.device)
 
 
     def create_dataset(self, patches: List[LRPatch], training: bool, task_name: str ):
@@ -64,6 +65,12 @@ class HRDesTSeg(BaseDetector):
                                         training=training, task_name = task_name)
         return dataset
 
+    def to_device(self, device):
+        self.teacher_net = self.teacher_net.to(device)
+        self.student_net = self.student_net.to(device)
+        self.segmentation_net = self.segmentation_net.to(device)
+
+
     def destseg_embedding(self, input_tensor: torch.Tensor, model):
         return model(input_tensor)
 
@@ -71,9 +78,11 @@ class HRDesTSeg(BaseDetector):
     def embedding(self, input_tensor: torch.Tensor ) -> List[torch.Tensor]:
         return self.destseg_embedding(input_tensor, self.teacher_net)
 
+
     @torch.no_grad()
     def get_multi_resolution_fusion_embeddings(self, data) -> List[torch.Tensor]:
         return self.destseg_multi_resolution_fusion_embeddings(data, self.teacher_net, gt_image=False)
+
 
     def destseg_multi_resolution_fusion_embeddings(self, data, model, gt_image = False) -> List[torch.Tensor]:
         image = data['gt_image'].to(self.device) if gt_image else data['image'].to(self.device)

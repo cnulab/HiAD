@@ -59,8 +59,7 @@ class HRPatchCore(BaseDetector):
         self.faiss_num_workers = faiss_num_workers
 
         fix_seeds(seed)
-        backbone = backbones.load(self.backbone_name)
-        self.backbone = backbone.to(device)
+        self.backbone = backbones.load(self.backbone_name)
 
         self.featuresampler = self.create_sampler('approx_greedy_coreset', self.percentage, self.logger)(
             self.device,
@@ -74,10 +73,9 @@ class HRPatchCore(BaseDetector):
             self.backbone, self.layers_to_extract_from, self.device
         )
 
-        self.nn_method = common.FaissNN(self.device, self.faiss_on_gpu, self.faiss_num_workers)
-
         self.forward_modules["feature_aggregator"] = self.feature_aggregator
         self.forward_modules["feature_aggregator"].eval()
+        self.to_device(device)
 
         feature_dimensions = self.feature_dimensions()
         preprocessing = common.Preprocessing(
@@ -88,16 +86,24 @@ class HRPatchCore(BaseDetector):
         preadapt_aggregator = common.Aggregator(
             target_dim=target_embed_dimension
         )
-        _ = preadapt_aggregator.to(self.device)
         self.forward_modules["preadapt_aggregator"] = preadapt_aggregator
-        self.anomaly_scorer = common.NearestNeighbourScorer(
-                    n_nearest_neighbours = self.anomaly_scorer_num_nn, nn_method=self.nn_method
-        )
+
         self.anomaly_segmentor = common.RescaleSegmentor(
                     device=self.device, target_size = self.patch_size
             )
+
+        self.nn_method = common.FaissNN(self.device, self.faiss_on_gpu, self.faiss_num_workers)
+
+        self.anomaly_scorer = common.NearestNeighbourScorer(
+                    n_nearest_neighbours = self.anomaly_scorer_num_nn, nn_method=self.nn_method
+        )
+
         self.max_anomaly_score = None
         self.min_anomaly_score = None
+
+
+    def to_device(self, device):
+        self.forward_modules["feature_aggregator"] = self.forward_modules["feature_aggregator"].to(device)
 
 
     def create_sampler(self, name, percentage ,logger):
@@ -193,13 +199,13 @@ class HRPatchCore(BaseDetector):
                    )-> List[numpy.ndarray]:
 
         self.forward_modules.eval()
+
         pred_masks = []
         for data in test_dataloader:
             with torch.no_grad():
                 batchsize = data['image'].shape[0]
                 features, patch_shapes = self.patchcore_emb(data, provide_patch_shapes=True)
                 features = np.asarray(features)
-
                 patch_scores = self.anomaly_scorer.predict([features])[0]
                 patch_scores = self.patch_maker.unpatch_scores(
                             patch_scores, batchsize=batchsize
@@ -249,3 +255,17 @@ class HRPatchCore(BaseDetector):
         self.min_anomaly_score = state_dict['min_anomaly_score']
         self.max_anomaly_score = state_dict['max_anomaly_score']
         self.fusion_weights = state_dict['fusion_weights'] if 'fusion_weights' in state_dict else None
+
+
+    def __getstate__(self):
+        state = self.__dict__.copy()
+        if 'anomaly_scorer' in state:
+            del state['anomaly_scorer']
+        return state
+
+    def __setstate__(self, state):
+        self.__dict__.update(state)
+        self.anomaly_scorer = common.NearestNeighbourScorer(
+                    n_nearest_neighbours = self.anomaly_scorer_num_nn, nn_method=self.nn_method
+        )
+

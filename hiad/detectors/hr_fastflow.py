@@ -59,32 +59,36 @@ class HRFastFlow(BaseDetector):
                 features_only=True,
                 out_indices= [layers_idx[layer] for layer in self.layers_to_extract_from],
             )
-            channels = self.feature_extractor.feature_info.channels()
-            scales = self.feature_extractor.feature_info.reduction()
+            self.channels = self.feature_extractor.feature_info.channels()
+            self.scales = self.feature_extractor.feature_info.reduction()
         else:
             self.feature_extractor = timm.create_model(backbone_name, pretrained=True)
-            channels = [768]
-            scales = [constants.SCALE_MAP[self.backbone_name]]
+            self.channels = [768]
+            self.scales = [constants.SCALE_MAP[self.backbone_name]]
+
 
         for param in self.feature_extractor.parameters():
             param.requires_grad = False
 
         self.feature_extractor.eval()
-        self.feature_extractor.to(self.device)
 
         self.fastflow = fastflow.FastFlow(
             backbone_name=self.backbone_name,
             input_size=self.patch_size,
             flow_steps=self.flow_step,
-            channels=channels,
-            scales=scales,
+            channels=self.channels,
+            scales=self.scales,
             conv3x3_only=self.conv3x3_only,
             hidden_ratio=self.hidden_ratio)
 
-        self.fastflow.to(self.device)
-
+        self.to_device(self.device)
         self.max_anomaly_score = None
         self.min_anomaly_score = None
+
+
+    def to_device(self, device):
+        self.fastflow = self.fastflow.to(device)
+        self.feature_extractor = self.feature_extractor.to(device)
 
     @torch.no_grad()
     def embedding(self, input_tensor: torch.Tensor ) -> List[torch.Tensor]:
@@ -218,9 +222,43 @@ class HRFastFlow(BaseDetector):
                     'fusion_weights': self.fusion_weights
                     }, checkpoint_path)
 
+
     def load_checkpoint(self, checkpoint_path: str):
         state_dict = torch.load(checkpoint_path, map_location=self.device)
         self.fastflow.load_state_dict(state_dict['state_dict'])
         self.min_anomaly_score = state_dict['min_anomaly_score']
         self.max_anomaly_score = state_dict['max_anomaly_score']
         self.fusion_weights = state_dict['fusion_weights'] if 'fusion_weights' in state_dict else None
+
+    def __getstate__(self):
+        state = self.__dict__.copy()
+
+        state_dict = {k: v for k, v in self.fastflow.state_dict().items()}
+        state.update({
+            'state_dict': state_dict
+        })
+
+        if 'fastflow' in state:
+            del state['fastflow']
+
+        return state
+
+
+    def __setstate__(self, state):
+        self.__dict__.update(state)
+
+        self.fastflow = fastflow.FastFlow(
+            backbone_name=self.backbone_name,
+            input_size=self.patch_size,
+            flow_steps=self.flow_step,
+            channels=self.channels,
+            scales=self.scales,
+            conv3x3_only=self.conv3x3_only,
+            hidden_ratio=self.hidden_ratio)
+
+        self.to_device(self.device)
+        self.fastflow.load_state_dict(state['state_dict'])
+
+
+
+

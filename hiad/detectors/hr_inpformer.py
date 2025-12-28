@@ -102,7 +102,7 @@ class HRINPFormer(BaseDetector):
                                 target_layers=self.target_layers, fuse_layer_encoder=self.fuse_layer_encoder,
                                 fuse_layer_decoder=self.fuse_layer_decoder, prototype_token=self.INP)
 
-        self.model = self.model.to(device)
+        self.to_device(device)
 
         self.eval_per_steps = eval_per_steps
         self.log_per_steps = log_per_steps
@@ -114,6 +114,8 @@ class HRINPFormer(BaseDetector):
     def embedding(self, input_tensor: torch.Tensor ) -> List[torch.Tensor]:
         return self.model.encoder_image(input_tensor.to(self.device))
 
+    def to_device(self, device):
+        self.model = self.model.to(device)
 
     def train_step(self,
                    train_dataloader: DataLoader,

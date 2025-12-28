@@ -42,6 +42,7 @@ class HRPaDiM(BaseDetector):
             backbone, self.layers_to_extract_from, self.device
         )
         self.feature_aggregator.eval()
+        self.to_device(device)
 
         self.feature_dimension = sum(self.feature_dimensions())
         self.idx = torch.tensor(sample(range(0, self.feature_dimension), self.embed_dimension))
@@ -49,6 +50,8 @@ class HRPaDiM(BaseDetector):
         self.max_anomaly_score = None
         self.min_anomaly_score = None
 
+    def to_device(self, device):
+        self.feature_aggregator = self.feature_aggregator.to(device)
 
     def train_step(self,
                    train_dataloader: DataLoader,
@@ -109,7 +112,7 @@ class HRPaDiM(BaseDetector):
             with torch.no_grad():
                 outputs = self.get_multi_resolution_fusion_embeddings(data)
 
-            for test_output,output in zip(test_outputs, outputs):
+            for test_output, output in zip(test_outputs, outputs):
                 test_output.append(output.cpu().detach())
 
         test_outputs = [torch.cat(test_output, 0) for test_output in test_outputs]
