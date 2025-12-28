@@ -28,9 +28,6 @@ class FaissNN(object):
 
     def _index_to_gpu(self, index):
         if self.on_gpu:
-            # For the non-gpu faiss python package, there is no GpuClonerOptions
-            # so we can not make a default in the function header.
-
             return faiss.index_cpu_to_gpu(
                 faiss.StandardGpuResources(), self.device.index if self.device.index is not None else 0, index, self._gpu_cloner_options()
             )
@@ -51,6 +48,7 @@ class FaissNN(object):
             )
         return faiss.IndexFlatL2(dimension)
 
+
     def fit(self, features: np.ndarray) -> None:
         """
         Adds features to the FAISS search index.
@@ -60,14 +58,13 @@ class FaissNN(object):
         """
         if self.search_index:
             self.reset_index()
-
         self.search_index = self._create_index(features.shape[-1])
         self._train(self.search_index, features)
         self.search_index.add(features)
 
-
     def _train(self, _index, _features):
         pass
+
 
     def run(
         self,
@@ -97,10 +94,33 @@ class FaissNN(object):
     def load(self, filename: str) -> None:
         self.search_index = self._index_to_gpu(faiss.read_index(filename))
 
+
     def reset_index(self):
         if self.search_index:
             self.search_index.reset()
             self.search_index = None
+
+
+    def __getstate__(self):
+        state = self.__dict__.copy()
+
+        if self.search_index is not None:
+            if self.on_gpu:
+                cpu_index = self._index_to_cpu(self.search_index)
+            else:
+                cpu_index = self.search_index
+
+            state['search_index'] = faiss.serialize_index(cpu_index)
+        return state
+
+
+    def __setstate__(self, state):
+        if 'search_index' in state and state['search_index'] is not None:
+            state['search_index'] = faiss.deserialize_index(state['search_index'])
+
+        self.__dict__.update(state)
+        self.search_index = self._index_to_gpu(self.search_index)
+
 
 
 class ApproximateFaissNN(FaissNN):
@@ -268,8 +288,6 @@ class NetworkFeatureAggregator(torch.nn.Module):
                 self.backbone.hook_handles.append(
                     network_layer.register_forward_hook(forward_hook)
                 )
-        self.to(self.device)
-
 
     def forward(self, images):
         self.outputs.clear()
