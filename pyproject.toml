@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hiad"
-version = "0.1.2"
+version = "0.2.0"
 description = "high-resolution anomaly detection"
 authors = [
     { name = "cnulab", email = "2024010482@bupt.cn" }
@@ -33,6 +33,7 @@ dependencies = [
     "geomloss",
     "pandas",
     "grad_cam",
+    "pyzmq"
 ]
 
 [project.optional-dependencies]
@@ -45,4 +46,5 @@ include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["."]
+
 
