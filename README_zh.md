@@ -26,7 +26,8 @@
 
 ## 更新日志  
  - **[2025-09] 更新了基于DINOv3的[Dinomaly](runs/run_dinomaly.py)和[INP-Former](runs/run_inpformer.py).**
-  
+ - **[2026-01] 更新了HiAD 0.2版本以支持[在线推理和部署](tutorial/online_inference_zh.md).**
+
 ## 🔧 安装
   
 ```
@@ -43,6 +44,7 @@ $ pip install hiad         # 适用于 Windows
   <tr><td align="center"><a href='tutorial/quick_start_zh.md'>快速开始</a></td><td align="center">通过一个简单的示例快速了解HiAD的工作原理</td></tr>
   <tr><td align="center"><a href='tutorial/advanced_zh.md'>高级设置</a></td><td align="center">了解HiAD的高级功能</td></tr>
   <tr><td align="center"><a href='tutorial/customized_detectors_zh.md'>自定义检测器</a></td><td align="center">将更多异常检测算法与HiAD集成</td></tr>
+  <tr><td align="center"><a href='tutorial/online_inference_zh.md'>在线推理</a></td><td align="center">高效推理与部署</td></tr>
 </table>
 
 ## 🚀 数据集  
@@ -91,6 +93,7 @@ python runs/run_patchcore.py --data_root data/MVTec-2K --category bottle --gpus 
       primaryClass={cs.CV}
 }
 ```
+
 
 
 
