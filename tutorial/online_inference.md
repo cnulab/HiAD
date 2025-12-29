@@ -2,7 +2,7 @@
   
 This tutorial will demonstrate the online inference and deployment process for HiAD.
   
-Using the example from the [Quick Start Tutorial](tutorial/quick_start.md), after training is complete, the model checkpoint is saved in the `saved_models` folder:
+Using the example from the [Quick Start Tutorial](quick_start.md), after training is complete, the model checkpoint is saved in the `saved_models` folder:
 ```
 |--saved_models                      
    |--task_0_weight.pkl
