@@ -32,6 +32,7 @@ we invite you to read our [paper](https://arxiv.org/abs/2508.12931) for more tec
   
 ##  News
  - **[09.2025]: Updated DINOv3-based [Dinomaly](runs/run_dinomaly.py) and [INP-Former](runs/run_inpformer.py).**
+ - **[01.2026]: Updated HiAD v0.2 to support [online inference and deployment](tutorial/online_inference.md).**
 ## 🔧 Installation
   
 ```
@@ -48,6 +49,7 @@ $ pip install hiad         # for Windows
   <tr><td align="center"><a href='tutorial/quick_start.md'>Quick Start</a></td><td align="center">Quickly understand how HiAD works through a simple example.</td></tr>
   <tr><td align="center"><a href='tutorial/advanced.md'>Advanced Settings</a></td><td align="center">Learn about HiAD's advanced features.</td></tr>
   <tr><td align="center"><a href='tutorial/customized_detectors.md'>Custom Detector</a></td><td align="center">Integrate more anomaly detection algorithms with HiAD.</td></tr>
+  <tr><td align="center"><a href='tutorial/online_inference.md'>Online Inference</a></td><td align="center">Efficient inference and deployment.</td></tr>
 </table>
 
 ## 🚀 Datasets
@@ -95,6 +97,7 @@ If you find it useful, consider giving us a ⭐, we’d really appreciate it!
       primaryClass={cs.CV}
 }
 ```
+
 
 
 
