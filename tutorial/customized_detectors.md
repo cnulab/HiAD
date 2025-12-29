@@ -156,7 +156,16 @@ Saving and loading of the `checkpoint`.
         raise NotImplementedError
 ```
 *Note: All steps described above operate on low-resolution image patches.* 
-
+  
+The `to_device` function is used to define the detector's behavior when switching computing devices.
+```
+    @abstractmethod
+    def to_device(self, device: torch.device):
+       r"""
+            for example: self.model = self.model.to(device)
+        """
+        raise NotImplementedError
+```
 You can redefine the computation of image-level anomaly scores by overriding the `get_image_score` method:
 
 ```
@@ -173,5 +182,6 @@ You can redefine the computation of image-level anomaly scores by overriding the
         pass
 ```
 **If you would like HiAD to support additional detectors, feel free to create a new `issue`. We’ll get back to you as soon as possible!**
+
 
 
