@@ -2,7 +2,7 @@
   
 本教程将演示HiAD的在线推理和部署流程。  
   
-以[快速开始教程](tutorial/quick_start_zh.md)中的示例为例，训练完成后，模型的checkpoint保存在`saved_models`文件夹下：
+以[快速开始教程](quick_start_zh.md)中的示例为例，训练完成后，模型的checkpoint保存在`saved_models`文件夹下：
 ```
 |--saved_models                      
    |--task_0_weight.pkl
