@@ -25,6 +25,8 @@ def client_detection(samples: List[Union[str | np.ndarray | HRSample]],
         elif type(sample) == np.ndarray:
             if image_size is not None:
                 image = cv2.resize(sample, image_size if not isinstance(image_size, int) else (image_size, image_size), interpolation=cv2.INTER_LINEAR)
+            else:
+                image = sample
             images.append(image)
 
         elif type(sample) == HRSample:
@@ -64,4 +66,5 @@ def client_detection(samples: List[Union[str | np.ndarray | HRSample]],
     if return_fps:
         result.update({"fps": round(len(samples) / elapsed_s, 2)})
     return result
+
 
