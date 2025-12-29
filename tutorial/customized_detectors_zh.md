@@ -154,7 +154,16 @@ class CustomizedDetector(BaseDetector):
         raise NotImplementedError
 ```
 *注：上述流程中的处理对象均为切割后的图像块。*  
-  
+
+函数to_device用于定义检测器在更换计算设备时的行为
+```
+    @abstractmethod
+    def to_device(self, device: torch.device):
+       r"""
+            例如 self.model = self.model.to(device)
+        """
+        raise NotImplementedError
+```
 通过重写`get_image_score`方法可以重新定义图像级检测分数的计算过程：
 ```
     @staticmethod
@@ -170,4 +179,5 @@ class CustomizedDetector(BaseDetector):
         pass
 ```
 **当然！如果你希望HiAD能够支持其他的检测器，可以创建新的`issues`，我们将尽快回复！**
+
 
