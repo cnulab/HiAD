@@ -201,9 +201,12 @@ Output:
  5.05922744 6.04014021 5.30184198 5.0269954 ]
 10 (2048, 2048)
 ```
+If you need online inference (client-server mode), you can refer to this [tutorial](online_inference.md).  
+  
 The complete code for this example can be found at [quick_start.py](quick_start.py).  
-
+  
 **If you'd like to explore more features of HiAD, please continue reading the [Advanced Settings](advanced.md)**.
+
 
 
 
