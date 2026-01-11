@@ -189,11 +189,12 @@ print(len(anomaly_maps), anomaly_maps[0].shape)
  5.05922744 6.04014021 5.30184198 5.0269954 ]
 10 (2048, 2048)
 ```
-如果需要在线推理（Client-Server），请参考[此教程](online_inference.md)。  
+如果需要在线推理（Client-Server），请参考[此教程](online_inference_zh.md)。  
   
 本示例的完整的代码见 [quick_start.py](quick_start.py)  
   
 **如果您想进一步了解HiAD的更多功能，欢迎继续阅读HiAD的[高级设置](advanced_zh.md)**。
+
 
 
 
