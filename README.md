@@ -4,7 +4,7 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href='https://arxiv.org/abs/2508.12931'><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
   <a href='https://pypi.org/project/hiad/'><img src='https://img.shields.io/badge/Pip-Install-green'></a>&ensp; 
-  <a href='https://huggingface.co/XimiaoZhang'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp;
+  <a href='https://huggingface.co/XimiaoZhang'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Datasets-blue'></a>&ensp;
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-Apache2.0-yellow'></a>&ensp; 
   <a href='tutorial/quick_start.md'><img src='https://img.shields.io/badge/Tutorial-blue'></a>&ensp; 
   <a href='README_zh.md'><img src='https://img.shields.io/badge/切换为中文-green'></a>&ensp;
@@ -97,6 +97,7 @@ If you find it useful, consider giving us a ⭐, we’d really appreciate it!
       primaryClass={cs.CV}
 }
 ```
+
 
 
 
