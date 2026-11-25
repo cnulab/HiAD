@@ -573,7 +573,7 @@ class AutoTaskGenerator(BaseTaskGenerator):
         logger.info(f'AutoTaskGenerator: selected {best} (Score={final_scores[best]:.3f})')
 
         if best == 'NA':
-           return NeighborhoodTaskGenerator(
+            return NeighborhoodTaskGenerator(
                *self._get_na_groups(), device=self.device
            ).create_tasks(samples, indexes)
         elif best == 'SCA':
