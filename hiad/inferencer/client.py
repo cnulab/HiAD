@@ -12,7 +12,7 @@ from hiad.utils.base import split_list
 
 def client_detection(samples: List[Union[str | np.ndarray | HRSample]],
                      image_size: Union[int, List] = None,
-                     ip = '127.0.0,1', port = '1473', batch_size = -1, return_fps = False):
+                     ip = '127.0.0.1', port = '1473', batch_size = -1, return_fps = False):
 
     images = []
     for sample in samples:
