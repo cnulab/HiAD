@@ -5,14 +5,17 @@ import torch
 import tqdm
 import numpy
 import logging
+import math
 from sklearn.cluster import DBSCAN, KMeans
+from sklearn.model_selection import train_test_split
+
 import torch.nn.functional as F
 import os
 from PIL import Image
 from easydict import EasyDict
 import torch.multiprocessing as mp
 
-from hiad.task.utils import patch_embedding
+from hiad.task.utils import patch_embedding, update_paths_and_indexes
 from hiad.utils.split_and_gather import HRSample, HRImage
 from hiad.utils.split_and_gather import MultiResolutionIndex
 from hiad.utils.base import ImageIndexes2NdArray
@@ -360,3 +363,233 @@ class RetrieveTaskGenerator(BaseTaskGenerator):
                     image.close()
                     Image.fromarray(patch).save(os.path.join(task_root,f'patch_{i}.jpg'))
         return tasks
+
+
+def _held_out_nll_per_dim(train_embs, val_embs, eps=1e-4):
+    """Compute per-dimension held-out NLL: (log-variance + Mahalanobis) / D."""
+    n_val_total = sum(v.shape[0] for v in val_embs.values() if v.shape[0] > 0)
+    if n_val_total == 0:
+        return float('inf')
+
+    nll = 0.0
+    dim = 0
+    for name, val_f in val_embs.items():
+        if val_f.shape[0] == 0 or name not in train_embs:
+            continue
+
+        train_f = train_embs[name]
+        dim = val_f.shape[1]  # Feature dimension (d)
+        if train_f.shape[0] < 2:
+            nll += (val_f.shape[0] / n_val_total) * dim * 10.0
+            continue
+
+        mu = train_f.mean(axis=0)
+        var = train_f.var(axis=0, ddof=1)
+        w = val_f.shape[0] / n_val_total
+
+        nll += w * (np.sum(np.log(var + eps)) + np.mean(np.sum((val_f - mu) ** 2 / (var + eps), axis=1)))
+    return nll / dim
+
+
+def _spatial_penalty(tasks, indexes, is_ra):
+
+    img_grids = {}
+    task_name_to_id = {t['name']: i for i, t in enumerate(tasks)}
+
+    grid = ImageIndexes2NdArray(indexes)
+    idx_to_rc = {str(grid[r, c]): (r, c) for r in range(grid.shape[0]) for c in range(grid.shape[1])}
+
+    for t in tasks:
+        task_id = task_name_to_id[t['name']]
+        if is_ra:
+            for p, idx in t['paths_and_indexes']:
+                if p not in img_grids:
+                    img_grids[p] = np.zeros(grid.shape, dtype=int)
+
+                if str(idx) in idx_to_rc:
+                    r, c = idx_to_rc[str(idx)]
+                    img_grids[p][r, c] = task_id
+
+        else:
+            for idx in t['indexes']:
+                if "dummy" not in img_grids:
+                    img_grids["dummy"] = np.zeros(grid.shape, dtype=int)
+
+                if str(idx) in idx_to_rc:
+                    r, c = idx_to_rc[str(idx)]
+                    img_grids["dummy"][r, c] = task_id
+
+    diff_edges, total_edges = 0, 0
+
+    for g in img_grids.values():
+        if g.shape[1] > 1:  # Horizontal edges
+            diff_edges += np.sum(g[:, :-1] != g[:, 1:])
+            total_edges += g.shape[0] * (g.shape[1] - 1)
+
+        if g.shape[0] > 1:  # Vertical edges
+            diff_edges += np.sum(g[:-1, :] != g[1:, :])
+            total_edges += (g.shape[0] - 1) * g.shape[1]
+
+    f_spatial = diff_edges / max(total_edges, 1)
+    return f_spatial
+
+
+
+class AutoTaskGenerator(BaseTaskGenerator):
+    r"""
+    Selects among {NA, SCA, RA} via multi-criteria evaluation:
+    """
+    def __init__(self,
+                 detector_class,
+                 detector_config,
+                 batch_size,
+                 cluster_number=4,
+                 feature_resolution=1,
+                 fusion_weights=None, device=None, val_ratio=0.2):
+
+        self.detector_class = detector_class
+        if isinstance(detector_config, dict):
+            detector_config = EasyDict(detector_config)
+
+        self.detector_config = detector_config
+        self.batch_size = batch_size
+        self.cluster_number = cluster_number
+
+        if isinstance(feature_resolution, int):
+            self.feature_resolution = [feature_resolution, feature_resolution]
+        else:
+            self.feature_resolution = feature_resolution
+
+        self.fusion_weights = fusion_weights
+        self.val_ratio = val_ratio
+        super().__init__(device)
+
+    def _collect(self, tasks, pairs, is_ra=False):
+        if is_ra:
+            k2t = {}
+            for t in tasks:
+                for p, i in t['paths_and_indexes']:
+                    k2t[f'{p}_{i}'] = t['name']
+            e = {t['name']: [] for t in tasks}
+            for p, i, em in pairs:
+                k = f'{p}_{i}'
+                if k in k2t: e[k2t[k]].append(em.reshape(-1))
+        else:
+            i2t = {}
+            for t in tasks:
+                for i in t['indexes']: i2t[i] = t['name']
+            e = {t['name']: [] for t in tasks}
+            for _, i, em in pairs:
+                if i in i2t: e[i2t[i]].append(em.reshape(-1))
+
+        return {n: np.stack(v) for n, v in e.items() if v}
+
+
+    def _get_na_groups(self):
+        s = int(math.sqrt(self.cluster_number))
+        for i in range(s, 0, -1):
+            if self.cluster_number % i == 0:
+                return sorted((i, self.cluster_number // i))
+        return (1, self.cluster_number)
+
+
+    def create_tasks(self, samples, indexes, **kwargs):
+        logger = logging.getLogger('main')
+
+        train_samples, val_samples = train_test_split(samples, test_size=self.val_ratio)
+
+        train_pairs = patch_embedding(
+            train_samples, indexes, self.detector_class,
+            self.detector_config.patch, self.batch_size,
+            self.feature_resolution, self.fusion_weights, self.device)
+
+        val_pairs = patch_embedding(
+            val_samples, indexes, self.detector_class,
+            self.detector_config.patch, self.batch_size,
+            self.feature_resolution, self.fusion_weights, self.device)
+
+        N = len(train_pairs) + len(val_pairs)
+        d = train_pairs[0][-1].reshape(-1).shape[0]
+
+        logger.info(f'AutoTaskGenerator: N={N}, d={d}, M={self.cluster_number}')
+
+        cands = {}
+
+        cands['NA'] = NeighborhoodTaskGenerator(
+            *self._get_na_groups(), device=self.device
+        ).create_tasks(train_samples, indexes)
+
+        cands['SCA'] = SpatialClusteringTaskGenerator(
+            self.detector_class, self.detector_config, self.batch_size,
+            cluster_number=self.cluster_number,
+            feature_resolution=self.feature_resolution,
+            fusion_weights=self.fusion_weights, device=self.device
+        ).create_tasks(train_samples, indexes=indexes, embedding_pairs=train_pairs)
+
+        cands['RA'] = RetrieveTaskGenerator(
+            self.detector_class, self.detector_config, self.batch_size,
+            cluster_number=self.cluster_number,
+            feature_resolution=self.feature_resolution,
+            fusion_weights=self.fusion_weights, device=self.device
+        ).create_tasks(train_samples, indexes=indexes, embedding_pairs=train_pairs)
+
+        nll_scores = {}
+        spatial_scores = {}
+
+        for name, tasks in cands.items():
+            is_ra = (name == 'RA')
+            tr_e = self._collect(tasks, train_pairs, is_ra)
+            if is_ra:
+                tasks = update_paths_and_indexes(
+                    tasks,
+                    val_samples,
+                    self.detector_class,
+                    self.detector_config,
+                    self.batch_size,
+                    self.device,
+                    embedding_pairs=val_pairs)
+                va_e = self._collect(tasks, val_pairs, is_ra)
+            else:
+                va_e = self._collect(tasks, val_pairs, False)
+
+            nll_scores[name] = _held_out_nll_per_dim(tr_e, va_e)
+            spatial_scores[name] = _spatial_penalty(tasks, indexes, is_ra)
+
+        final_scores = {key: nll_scores[key] + 0.5 * spatial_scores[key] for key in nll_scores}
+
+        logger.info(f'  {"":>4s}  {"NLL":>10s} {"SP":>10s} {"Score":>10s}')
+
+        for name in final_scores:
+            logger.info(
+                f'  {name:>4s}  {nll_scores[name]:>+10.2f} {spatial_scores[name]:>+10.2f}'
+                f'{final_scores[name]:>10.3f}'
+            )
+
+        best = min(final_scores, key=final_scores.get)
+        
+        epsilon = 0.05
+        best = 'SCA' if best == 'RA' and final_scores['SCA'] - final_scores['RA'] <= epsilon else best
+        
+        logger.info(f'AutoTaskGenerator: selected {best} (Score={final_scores[best]:.3f})')
+
+        if best == 'NA':
+           return NeighborhoodTaskGenerator(
+               *self._get_na_groups(), device=self.device
+           ).create_tasks(samples, indexes)
+        elif best == 'SCA':
+            return SpatialClusteringTaskGenerator(
+                self.detector_class, self.detector_config, self.batch_size,
+                cluster_number=self.cluster_number,
+                feature_resolution=self.feature_resolution,
+                fusion_weights=self.fusion_weights, device=self.device
+            ).create_tasks(samples, indexes=indexes, embedding_pairs=train_pairs + val_pairs)
+        elif best == 'RA':
+            return RetrieveTaskGenerator(
+                self.detector_class, self.detector_config, self.batch_size,
+                cluster_number=self.cluster_number,
+                feature_resolution=self.feature_resolution,
+                fusion_weights=self.fusion_weights, device=self.device
+            ).create_tasks(samples, indexes=indexes, embedding_pairs=train_pairs + val_pairs)
+
+
+
