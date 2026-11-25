@@ -257,6 +257,7 @@ class LinearAttention2(nn.Module):
 
         self.proj = nn.Linear(dim, dim)
         self.proj_drop = nn.Dropout(proj_drop)
+        self.eps = 1e-4
 
     def forward(self, x, attn_mask=None):
         B, N, C = x.shape
