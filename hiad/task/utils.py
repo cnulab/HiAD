@@ -39,13 +39,15 @@ def patch_embedding(samples,
     return patch_embeddings
 
 
+
 def update_paths_and_indexes(
                     tasks,
                     samples,
                     detector_class,
                     detector_config,
                     batch_size,
-                    devices):
+                    devices,
+                    **kwargs):
 
     if 'feature_resolution' in tasks[0]:
         feature_resolution = tasks[0]['feature_resolution']
@@ -68,14 +70,17 @@ def update_paths_and_indexes(
 
     indexes = [MultiResolutionIndex.from_str(index) for index in set(indexes)]
 
-    embedding_pairs = patch_embedding(samples,
-                                    indexes,
-                                    detector_class,
-                                    detector_config,
-                                    batch_size,
-                                    feature_resolution,
-                                    fusion_weights,
-                                    devices)
+    if kwargs.get('embedding_pairs', None):
+        embedding_pairs = kwargs['embedding_pairs']
+    else:
+        embedding_pairs = patch_embedding(samples,
+                                            indexes,
+                                            detector_class,
+                                            detector_config,
+                                            batch_size,
+                                            feature_resolution,
+                                            fusion_weights,
+                                            devices)
 
     embeddings = [pair[-1].reshape(-1) for pair in embedding_pairs]
     paths_and_indexes = [pair[:-1] for pair in embedding_pairs]
@@ -83,11 +88,21 @@ def update_paths_and_indexes(
     embeddings = np.stack(embeddings)
     embeddings = F.normalize(torch.tensor(embeddings), p=2, dim=1).numpy()
 
+    # clf = NearestCentroid()
+    # clf.centroids_ = np.stack(centers)
+    # clf.classes_ = np.arange(np.stack(centers).shape[0])
+    # labels = clf.predict(embeddings)
+
+    centers_stacked = np.stack(centers)
+    n_classes = centers_stacked.shape[0]
+    n_features = centers_stacked.shape[1]
     clf = NearestCentroid()
-    clf.centroids_ = np.stack(centers)
-    clf.classes_ = np.arange(np.stack(centers).shape[0])
+    clf.centroids_ = centers_stacked
+    clf.classes_ = np.arange(n_classes)
+    clf.class_prior_ = np.ones(n_classes) / n_classes
+    clf.n_features_in_ = n_features
     labels = clf.predict(embeddings)
 
     for i, task in enumerate(tasks):
-        task['paths_and_indexes'] = [ path_and_index  for label, path_and_index in  zip(labels, paths_and_indexes) if label == i]
+        task['paths_and_indexes'].extend([path_and_index for label, path_and_index in  zip(labels, paths_and_indexes) if label == i])
     return tasks
