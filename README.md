@@ -33,6 +33,7 @@ we invite you to read our [paper](https://arxiv.org/abs/2508.12931) for more tec
 ##  News
  - **[09.2025]: Updated DINOv3-based [Dinomaly](runs/run_dinomaly.py) and [INP-Former](runs/run_inpformer.py).**
  - **[01.2026]: Updated HiAD v0.2 to support [online inference and deployment](tutorial/online_inference.md).**
+ - **[11.2026]: We have updated our paper, which has been accepted by IEEE Transactions on Image Processing (T-IP).**
 ## 🔧 Installation
   
 ```
